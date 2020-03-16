@@ -41,7 +41,7 @@ def combine_cases():
         }
         cases_ph_ar.append(case_obj)
     keys = cases_ph_ar[0].keys()
-    with open('./cases_ph.csv', 'w') as output_file:
+    with open('./data/cases_ph.csv', 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(cases_ph_ar)
