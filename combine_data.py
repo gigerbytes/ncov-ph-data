@@ -100,6 +100,7 @@ def combine_cases():
             'status': case['status'],
             'dashboard_version': case['dashboard_version'],
             'dashboard_last_updated': case['dashboard_last_updated'],
+            'queried_at': case['inserted_at']
         }
         cases_ph_ar.append(case_obj)
     keys = cases_ph_ar[0].keys()
