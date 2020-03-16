@@ -48,9 +48,34 @@ def parse_facility_data(fac_obj, last_updated):
 
     return fac_obj
 
-### API QUERIES ##############3
 
-def get_confirmed_cases(last_updated):
+def parse_case(ncov_case, last_updated):
+    format_str = '%m/%d/%Y' # The current date format
+    ncov_case = ncov_case['attributes']
+    ### POST PROCESSINVG
+    try:
+        if(ncov_case['confirmed'] != None):
+            parsed_date = dateutil.parser.parse(ncov_case['confirmed'])
+            datetimeobject = datetime.strptime(str(parsed_date),'%Y-%m-%d  %H:%M:%S')
+    except:
+        ncov_case['confirmed'] = None
+
+    try:
+        ncov_case['location'] = {"type": "Point", "coordinates": [float(ncov_case['longitude']), float(ncov_case['latitude']) ]}
+    except:
+        ncov_case['location'] = {"type": "Point", "coordinates": [0.0, 0.0]}
+
+    print(ncov_case)
+
+    ### Saving
+    ncov_case['dashboard_last_updated'] = last_updated['dashboard_last_updated']
+    ncov_case['dashboard_version'] = last_updated['dashboard_version']
+    ncov_case['inserted_at'] = datetime.datetime.now()
+
+    return ncov_case
+
+### API QUERIES ##############3
+def get_confirmed_cases_ph(last_updated):
     # https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/PH_masterlist/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=FID%20desc&resultOffset=0&resultRecordCount=150&cacheHint=true
     master_list_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/PH_masterlist/FeatureServer/0/query"
     master_list_params = {
@@ -71,30 +96,33 @@ def get_confirmed_cases(last_updated):
 
     cases = db.cases
 
-    format_str = '%m/%d/%Y' # The current date format
     for ncov_case in ncov_cases:
-        ncov_case = ncov_case['attributes']
+        ncov_case = parse_case(ncov_case, last_updated)
+        cases.insert_one(ncov_case)
 
+def get_confirmed_cases_fn(last_updated):
+    # https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/PH_masterlist/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=FID%20desc&resultOffset=0&resultRecordCount=150&cacheHint=true
+    master_list_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/FN_masterlist/FeatureServer/0/query"
+    master_list_params = {
+        'f':'json',
+        'where':'1=1',
+        'returnGeometry': 'false',
+        'spatialRel': 'esriSpatialRelIntersects',
+        'outFields':'*',
+        'orderByFields':'FID desc',
+        'resultOffset':0,
+        # 'resultRecordCount':200,
+        'cacheHint':'true'
+        }
 
-        ### POST PROCESSINVG
-        try:
-            if(ncov_case['confirmed'] != None):
-                parsed_date = dateutil.parser.parse(ncov_case['confirmed'])
-                datetimeobject = datetime.strptime(str(parsed_date),'%Y-%m-%d  %H:%M:%S')
-        except:
-            ncov_case['confirmed'] = None
+    response = requests.get(master_list_url, params=master_list_params)
+    json_response = response.json()
+    ncov_cases = json_response['features']
 
-        try:
-            ncov_case['location'] = {"type": "Point", "coordinates": [float(ncov_case['longitude']), float(ncov_case['latitude']) ]}
-        except:
-            ncov_case['location'] = {"type": "Point", "coordinates": [0.0, 0.0]}
+    cases = db.fn_cases
 
-        print(ncov_case)
-
-        ### Saving
-        ncov_case['dashboard_last_updated'] = last_updated['dashboard_last_updated']
-        ncov_case['dashboard_version'] = last_updated['dashboard_version']
-        ncov_case['inserted_at'] = datetime.datetime.now()
+    for ncov_case in ncov_cases:
+        ncov_case = parse_case(ncov_case, last_updated)
         cases.insert_one(ncov_case)
 
 
@@ -181,8 +209,9 @@ def get_commodities(last_updated):
     pp.pprint(commodities)
 
 if __name__ == '__main__':
-    last_updated = get_last_updated()
-    get_confirmed_cases(last_updated)
+    last_updated = get_last_updated() #dashboard version & last updated
+    get_confirmed_cases_fn(last_updated)
+    get_confirmed_cases_ph(last_updated)
     get_puis(last_updated)
     get_conf_facility(last_updated)
     get_commodities(last_updated)
