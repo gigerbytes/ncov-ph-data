@@ -61,7 +61,7 @@ def get_confirmed_cases(last_updated):
         'outFields':'*',
         'orderByFields':'FID desc',
         'resultOffset':0,
-        'resultRecordCount':200,
+        # 'resultRecordCount':200,
         'cacheHint':'true'
         }
 
@@ -109,7 +109,7 @@ def get_puis(last_updated):
         'spatialRel': 'esriSpatialRelIntersects',
         'outFields':'*',
         'resultOffset':0,
-        'resultRecordCount':200,
+        # 'resultRecordCount':200,
         'cacheHint':'true'
         }
 
@@ -137,7 +137,7 @@ def get_conf_facility(last_updated):
         'spatialRel': 'esriSpatialRelIntersects',
         'outFields':'*',
         'resultOffset':0,
-        'resultRecordCount':200,
+        # 'resultRecordCount':200,
         'cacheHint':'true'
         }
 
@@ -161,7 +161,7 @@ def get_commodities(last_updated):
         'spatialRel': 'esriSpatialRelIntersects',
         'outFields':'*',
         'resultOffset':0,
-        'resultRecordCount':200,
+        # 'resultRecordCount':200,
         'cacheHint':'true'
         }
 
