@@ -123,7 +123,30 @@ def get_conf_facility():
         fac_confs.insert_one(facility_conf)
 
 
+def get_commodities():
+    commodities_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/commodities/FeatureServer/0/query"
+    commodities_params = {
+        'f':'json',
+        'where':'1=1',
+        'returnGeometry': 'false',
+        'spatialRel': 'esriSpatialRelIntersects',
+        'outFields':'*',
+        'resultOffset':0,
+        'resultRecordCount':200,
+        'cacheHint':'true'
+        }
+    response = requests.get(commodities_url, params=commodities_params)
+    json_response = response.json()
+    commodities = json_response['features']
+
+    db_commodities = db.commodities
+    for commodity in commodities:
+        commodity = commodity['attributes']
+        db_commodities.insert_one(commodity)
+    pp.pprint(commodities)
+
 if __name__ == '__main__':
     get_confirmed_cases()
     get_puis()
     get_conf_facility()
+    get_commodities()
