@@ -16,6 +16,14 @@ db = client['ncov']
 
 
 ###### HELPERS
+
+# Gets a date string, returns either a formatted date, or the string itself
+def parse_date(date_str):
+    try:
+        return list(datefinder.find_dates(date_str))[-1]
+    except:
+        return date_str
+
 def get_last_updated():
     doh_template_url = "https://dohph.maps.arcgis.com/sharing/rest/content/items/3dda5e52a7244f12a4fb3d697e32fd39/data"
     doh_template_params = {
@@ -27,7 +35,7 @@ def get_last_updated():
 
     version = json_response['version']
     dashboard_title = json_response['headerPanel']['title'].split('of ')[1].replace(';','') # get string after 'of' and remove semicolon between date and time
-    dashboard_last_updated = list(datefinder.find_dates(dashboard_title))[-1]
+    dashboard_last_updated = parse_date(dashboard_title)
     info = {
         'dashboard_version': version,
         'dashboard_last_updated': dashboard_last_updated
@@ -48,11 +56,6 @@ def parse_facility_data(fac_obj, last_updated):
 
     return fac_obj
 
-def parse_date(date_str):
-    try:
-        return list(datefinder.find_dates(date_str))[-1]
-    except:
-        return date_str
 
 def parse_location(ncov_case):
     try:
@@ -60,25 +63,6 @@ def parse_location(ncov_case):
     except:
         location = {"type": "Point", "coordinates": [0.0, 0.0]}
     return location
-
-
-def parse_case(ncov_case, last_updated):
-    format_str = '%m/%d/%Y' # The current date format
-    ### POST PROCESSINVG
-    try:
-        if(ncov_case['confirmed'] != None):
-            parsed_date = dateutil.parser.parse(ncov_case['confirmed'])
-            datetimeobject = datetime.strptime(str(parsed_date),'%Y-%m-%d  %H:%M:%S')
-    except:
-        ncov_case['confirmed'] = None
-
-    print(ncov_case)
-    ### Saving
-    ncov_case['dashboard_last_updated'] = last_updated['dashboard_last_updated']
-    ncov_case['dashboard_version'] = last_updated['dashboard_version']
-    ncov_case['inserted_at'] = datetime.datetime.now()
-
-    return ncov_case
 
 ### API QUERIES ##############3
 def get_confirmed_cases_ph(last_updated):
@@ -105,7 +89,10 @@ def get_confirmed_cases_ph(last_updated):
     for ncov_case in ncov_cases:
         ncov_case = ncov_case['attributes']
         ncov_case['location'] = parse_location(ncov_case)
-        ncov_case = parse_case(ncov_case, last_updated)
+        ncov_case['confirmed'] = parse_date(ncov_case['confirmed'])
+        ncov_case['dashboard_last_updated'] = last_updated['dashboard_last_updated']
+        ncov_case['dashboard_version'] = last_updated['dashboard_version']
+        ncov_case['inserted_at'] = datetime.datetime.now()
         cases.insert_one(ncov_case)
 
 def get_confirmed_cases_fn(last_updated):
@@ -131,7 +118,9 @@ def get_confirmed_cases_fn(last_updated):
     for ncov_case in ncov_cases:
         ncov_case = ncov_case['attributes']
         ncov_case['location'] = parse_location(ncov_case)
-        ncov_case = parse_case(ncov_case, last_updated)
+        ncov_case['dashboard_last_updated'] = last_updated['dashboard_last_updated']
+        ncov_case['dashboard_version'] = last_updated['dashboard_version']
+        ncov_case['inserted_at'] = datetime.datetime.now()
         cases.insert_one(ncov_case)
 
 def get_confirmed_cases_ofw(last_updated):
@@ -251,9 +240,9 @@ def get_commodities(last_updated):
 
 if __name__ == '__main__':
     last_updated = get_last_updated() #dashboard version & last updated
-    # get_confirmed_cases_fn(last_updated)
-    # get_confirmed_cases_ph(last_updated)
-    get_confirmed_cases_ofw(last_updated)
+    get_confirmed_cases_fn(last_updated)
+    get_confirmed_cases_ph(last_updated)
+    # get_confirmed_cases_ofw(last_updated)
     # get_puis(last_updated)
     # get_conf_facility(last_updated)
     # get_commodities(last_updated)
