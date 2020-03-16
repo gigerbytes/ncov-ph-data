@@ -58,6 +58,15 @@ def get_confirmed_cases():
         ncov_case['inserted_at'] = datetime.datetime.now()
         cases.insert_one(ncov_case)
 
+def parse_facility_data(fac_obj):
+    fac_obj = fac_obj['attributes']
+    try:
+        fac_obj['location'] = {"type": "Point", "coordinates": [float(fac_obj['longitude']), float(fac_obj['latitude']) ]}
+    except:
+        fac_obj['location'] = {"type": "Point", "coordinates": [0.0, 0.0]}
+    fac_obj['inserted_at'] = datetime.datetime.now()
+
+    return fac_obj
 
 #######---------------------------- #############
 
@@ -77,22 +86,44 @@ def get_puis():
     response = requests.get(pui_url, params=pui_list_params)
     json_response = response.json()
 
-    pui_cases = json_response['features']
+    facilities = json_response['features']
 
-    puis = db.puis
+    db_puis = db.puis
 
-    for pui in pui_cases:
-        pui = pui['attributes']
-        try:
-            pui['location'] = {"type": "Point", "coordinates": [float(pui['longitude']), float(pui['latitude']) ]}
-        except:
-            pui['location'] = {"type": "Point", "coordinates": [0.0, 0.0]}
-        pui['inserted_at'] = datetime.datetime.now()
-        puis.insert_one(pui)
+    for facility in facilities:
+        facility_pui = parse_facility_data(facility)
+        db_puis.insert_one(facility_pui)
 
-    pp.pprint(pui_cases)
+
+#######---------------------------- #############
+
+def get_conf_facility():
+    conf_facility_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/conf_fac_tracking/FeatureServer/0/query"
+    conf_facility_params = {
+        'f':'json',
+        'where':'1=1',
+        'returnGeometry': 'false',
+        'orderByFields':'count_ desc',
+        'spatialRel': 'esriSpatialRelIntersects',
+        'outFields':'*',
+        'resultOffset':0,
+        'resultRecordCount':200,
+        'cacheHint':'true'
+        }
+
+    response = requests.get(conf_facility_url, params=conf_facility_params)
+
+    json_response = response.json()
+    facilities = json_response['features']
+
+    fac_confs = db.facilities_conf
+
+    for facility in facilities:
+        facility_conf = parse_facility_data(facility)
+        fac_confs.insert_one(facility_conf)
 
 
 if __name__ == '__main__':
     get_confirmed_cases()
     get_puis()
+    get_conf_facility()
