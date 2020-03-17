@@ -1,4 +1,4 @@
-,case_no,age,sex,nationality,travel_hx,date_symptom,date_admission,date_confirmation,facility,residence
+,case_no,age,sex,nationality,detailed_history,date_symptoms,date_admission,date_confirmation,facility,residence
 2,PH1,F,38,Chinese,"Yes (China); Wife of 
 PH2","January 21, 2020","January 25, 2020","January 30, 2020",San Lazaro Hospital,None
 3,PH2,M,44,Chinese,"Yes (China); Husband 

@@ -1,143 +1,185 @@
-FID,code,gender,age,nationalit,residence,travel_hist,symptoms,facility,confirmed,latitude,longitude,status,dashboard_last_updated,queried_at
-142,PH142,Male,50,For validation,For validation,For validation, ,RESU-NCR (Reporting Facility),For validation,14.585333,121.03593,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:31.936000
-141,PH141,Male,63,For validation,For validation,For validation, ,The Medical City - Ortigas,2020-03-16 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32
-140,PH140,Female,47,Filipino,Parañaque City,None, ,Asian Hospital and Medical Center,2020-03-15 00:00:00,14.413478,121.043612,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32.062000
-139,PH139,Female,44,Filipino,Muntinlupa City,None, ,Research Institute for Tropical Medicine,2020-03-15 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:32.229000
-138,PH138,Male,58,Filipino,Las Piñas City,None, ,Research Institute for Tropical Medicine,2020-03-15 00:00:00,14.409523,121.037122,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32.281000
-137,PH137,Female,27,Filipino,Rizal,None, ,The Medical City - Ortigas,2020-03-15 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32.345000
-136,PH136,Male,47,Filipino,Cavite,None, ,Silang Specialists Medical Center,2020-03-15 00:00:00,14.234671,120.972779,Critical,2020-03-17 09:00:00,2020-03-17 12:35:32.398000
-135,PH135,Female,13,Filipino,Quezon City, , ,Quezon City Health Department (Reporting Facility),2020-03-15 00:00:00,14.646154,121.052315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:32.451000
-134,PH134,Female,47,Filipino,Quezon City, , ,Quezon City Health Department (Reporting Facility),2020-03-15 00:00:00,14.646154,121.052315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:32.503000
-133,PH133,Male,27,For Validation,San Juan City,None, ,Quirino Memorial Medical Center,2020-03-15 00:00:00,14.622224,121.07294,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32.556000
-132,PH132,Male,69,For Validation,Makati City,For validation, ,Makati Medical Center,2020-03-15 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:32.646000
-131,PH131,Female,29,Filipino,Mandaluyong City,Dubai, ,Our Lady of Lourdes Hospital,2020-03-15 00:00:00,14.594872,121.022557,Mild,2020-03-17 09:00:00,2020-03-17 12:35:32.710000
-130,PH130,Female,21,Filipino,Compostela Valley,"United Kingdom, Qatar", ,Davao Regional Medical Center,2020-03-15 00:00:00,7.421699,125.828704,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32.779000
-129,PH129,Male,67,Filipino,Quezon City,None, ,Diliman Doctors Hospital,2020-03-15 00:00:00,14.668412,121.076063,Severe,2020-03-17 09:00:00,2020-03-17 12:35:32.841000
-128,PH128,Female,25,Filipino,Marikina City,Taiwan, ,Marikina Valley Medical Center,2020-03-15 00:00:00,14.634719,121.103987,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:32.895000
-127,PH127,Female,24,Filipino,Parañaque City,Japan, ,San Juan de Dios Education Foundation Inc. Hospital,2020-03-15 00:00:00,14.538532,120.993035,Mild,2020-03-17 09:00:00,2020-03-17 12:35:32.953000
-126,PH126,Male,76,Filipino,Rizal,None, ,Adventist Medical Center,2020-03-15 00:00:00,14.555997,120.99541,Critical,2020-03-17 09:00:00,2020-03-17 12:35:33.006000
-125,PH125,Male,36,Filipino,Manila,Cambodia, ,Chinese General Hospital and Medical Center,2020-03-15 00:00:00,14.625691,120.988565,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:33.070000
-124,PH124,Male,65,Filipino,Quezon City,Singapore, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.132000
-123,PH123,Male,55,Filipino,Manila,None, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.195000
-122,PH122,Male,41,Filipino,Tarlac,None, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.248000
-121,PH121,Male,37,Filipino,Manila,None, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.309000
-120,PH120,Female,29,For Validation,Quezon City,With Exposure to known COVID-19 case, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.363000
-119,PH119,Male,58,For Validation,Parañaque City,None, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:33.427000
-118,PH118,Male,60,Filipino,Manila,None, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.489000
-117,PH117,Male,68,Filipino,Quezon City,"Korea, USA", ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.555000
-116,PH116,Female,70,Filipino,Bulacan,Japan, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.608000
-115,PH115,Male,66,Thai,Quezon City,Thailand, ,St. Luke's Medical Center - Quezon City,2020-03-15 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.670000
-114,PH114,Male,35,Filipino,Caloocan City,Japan, ,St. Luke's Medical Center - Global City,2020-03-14 00:00:00,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.731000
-113,PH113,Female,31,Filipino,Bulacan,With Exposure to known COVID-19 case, ,St. Luke's Medical Center - Global City,2020-03-14 00:00:00,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.793000
-112,PH112,Male,41,Filipino,Makati City, , ,St. Luke's Medical Center - Global City,2020-03-14 00:00:00,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.858000
-111,PH111,Male,44,Filipino,Pasig City,None, ,St. Luke's Medical Center - Global City,For Validation,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.919000
-110,PH110,Female,27,Thai,Taguig City,None, ,St. Luke's Medical Center - Global City,For Validation,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:33.981000
-109,PH109,Male,44,Filipino,Pasig City,None, ,St. Luke's Medical Center - Global City,For Validation,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.039000
-108,PH108,Male,38,Filipino,For validation,Malaysia, ,St. Luke's Medical Center - Global City,For Validation,14.555128,121.048256,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.101000
-107,PH107,Female,57,Filipino,Quezon City,None, ,Philippine Heart Center,For Validation,14.64407,121.048067,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.164000
-106,PH106,Female,75,Filipino,Pasig City,None, ,The Medical City - Ortigas,2020-03-15 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.224000
-105,PH105,Male,38,Filipino,Mandaluyong City,None, ,The Medical City - Ortigas,2020-03-16 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.285000
-104,PH104,Male,62,Filipino,Caloocan City,None, ,Lung Center of the Philippines,For Validation,14.647821,121.045763,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.347000
-103,PH103,Male,31,For Validation,Caloocan City,With Exposure to known COVID-19 case, ,Lung Center of the Philippines,For Validation,14.647821,121.045763,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.407000
-102,PH102,Male,55,For Validation,For validation,For validation, ,Makati Medical Center,2020-03-16 00:00:00,14.559177,121.014546,Critical,2020-03-17 09:00:00,2020-03-17 12:35:34.460000
-101,PH101,Male,55,Filipino,Quezon City,None, ,Makati Medical Center,2020-03-16 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.513000
-100,PH100,Male,30,For Validation,For validation,For validation, ,University of the East Ramon Magsaysay Memorial Hospital,2020-03-15 00:00:00,14.60703,121.020581,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.565000
-99,PH99,Male,33,Filipino,Bulacan,None, ,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,For Validation,14.766822,121.065003,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.627000
-98,PH98,Male,50,Filipino,San Juan City,None, ,Cardinal Santos Medical Center,2020-03-14 00:00:00,14.597596,121.045994,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.679000
-97,PH97,Male,69,Filipino,Mandaluyong City,For validation, ,San Lazaro Hospital,2020-03-14 00:00:00,14.613754,120.980815,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.736000
-96,PH96,Male,39,Filipino,Abra,"UAE, Thailand", ,Ilocos Training and Regional Medical Center,2020-03-14 00:00:00,16.591172,120.318298,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.797000
-95,PH95,Female,64,Filipino,Batangas,For validation, ,San Lazaro Hospital,2020-03-14 00:00:00,14.613754,120.980815,Severe,2020-03-17 09:00:00,2020-03-17 12:35:34.849000
-94,PH94,Male,49,For Validation,For validation,For validation, ,Qualimed - Sta. Rosa Hospital,2020-03-13 00:00:00,14.23266,121.052589,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:34.913000
-93,PH93,Male,47,Filipino,Pampanga,With Exposure to known COVID-19 case, ,Jose B. Lingad Memorial Regional Hospital,2020-03-13 00:00:00,15.03451,120.684733,Mild,2020-03-17 09:00:00,2020-03-17 12:35:34.975000
-92,PH92,Male,69,Filipino,Makati City,For Validation, ,St. Luke's Medical Center - Global City,2020-03-13 00:00:00,14.555128,121.048256,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.040000
-91,PH91,Female,27,Filipino,Quezon City,With Exposure to known COVID-19 case, ,The Medical City - Ortigas,2020-03-13 00:00:00,14.58989,121.069315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:35.093000
-90,PH90,Female,66,Filipino,San Juan City,With Exposure to known COVID-19 case, ,The Medical City - Ortigas,2020-03-13 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.147000
-89,PH89,Male,67,Filipino,Pampanga,None, ,Our Lady of Mt. Carmel Medical Center,2020-03-13 00:00:00,15.182178,120.529903,Died on Mar. 11,2020-03-17 09:00:00,2020-03-17 12:35:35.206000
-88,PH88,Male,33,For Validation,San Juan City,None, ,Quirino Memorial Medical Center,2020-03-14 00:00:00,14.622224,121.07294,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.267000
-87,PH87,Female,76,For Validation,Quezon City,None, ,St. Luke's Medical Center - Quezon City,2020-03-14 00:00:00,14.622677,121.023532,Severe,2020-03-17 09:00:00,2020-03-17 12:35:35.329000
-86,PH86,Male,48,For Validation,For validation, , ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.389000
-85,PH85,Male,38,Filipino,Parañaque City,Japan, ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.453000
-84,PH84,Female,38,Filipino,Taguig City,, ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.514000
-83,PH83,Male,46,Filipino,Pasay City, , ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:35.577000
-82,PH82,Male,66,Filipino,Quezon City,With exposure to known COVID-19 case, ,University of Sto. Tomas Hospital,2020-03-14 00:00:00,14.611635,120.990153,Severe,2020-03-17 09:00:00,2020-03-17 12:35:35.637000
-81,PH81,Female,25,For Validation,Cavite,For Validation, ,St. Luke's Medical Center - Quezon City,2020-03-14 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:35.692000
-80,PH80,Male,52,Filipino,Quezon City,None, ,University of Sto. Tomas Hospital,2020-03-14 00:00:00,14.611635,120.990153,Severe,2020-03-17 09:00:00,2020-03-17 12:35:35.753000
-79,PH79,Male,68,Filipino,Makati City,None, ,Manila Doctors Hospital,2020-03-13 00:00:00,14.582028,120.982657,Died on Mar. 13,2020-03-17 09:00:00,2020-03-17 12:35:35.806000
-78,PH78,Female,63,For Validation,For validation,For validation, ,Chinese General Hospital and Medical Center,2020-03-13 00:00:00,14.625691,120.988565,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:35.869000
-77,PH77,Male,60,For Validation,Antipolo City,Japan, ,Fatima University Medical Center,2020-03-13 00:00:00,14.619168,121.152184,Critical,2020-03-17 09:00:00,2020-03-17 12:35:35.952000
-76,PH76,Male,59,Filipino,San Juan City,For validation, ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.004000
-75,PH75,Male,64,Filipino,Cavite,With Exposure to known COVID-19 case, ,Rizal Medical Center,2020-03-13 00:00:00,14.564216,121.065879,Severe,2020-03-17 09:00:00,2020-03-17 12:35:36.057000
-74,PH74,Male,49,Filipino,Quezon City,None, ,East Avenue Medical Center,2020-03-13 00:00:00,14.642167,121.048063,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.111000
-73,PH73,Male,54,Filipino,Manila,Thailand, ,Our Lady of Lourdes Hospital,2020-03-13 00:00:00,14.594872,121.022557,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.164000
-72,PH72,Male,41,Filipino,Laguna,Japan, ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.235000
-71,PH71,Male,59,Filipino,San Juan City,None, ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.289000
-70,PH70,Male,35,For Validation,Lucena City,"Thailand, Singapore", ,Research Institute for Tropical Medicine,2020-03-13 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.350000
-69,PH69,Female,28,For Validation,For validation,For validation , ,The Medical City - Ortigas,2020-03-13 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:36.410000
-68,PH68,Male,32,Filipino,Quezon City,With Exposure to known COVID-19 case, ,The Medical City - Ortigas,2020-03-13 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:36.471000
-67,PH67,Female,23,Filipino,Manila, , ,Santa Ana Hospital,2020-03-13 00:00:00,14.583621,121.016425,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.562000
-66,PH66,Male,25,Filipino,Pasig City, , ,San Lazaro Hospital,2020-03-13 00:00:00,14.613754,120.980815,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.624000
-65,PH65,Male,70,Filipino,San Juan City, , ,Veterans Memorial Medical Center,2020-03-13 00:00:00,14.65616,121.04012,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:36.685000
-64,PH64,Male,32,Filipino,Bataan,None, ,Bataan St. Joseph Hospital and Medical Center,2020-03-13 00:00:00,14.68148,120.541544,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.750000
-63,PH63,Male,33,Filipino,Pampanga,None, ,Marikina Valley Medical Center,2020-03-13 00:00:00,14.634719,121.103987,Severe,2020-03-17 09:00:00,2020-03-17 12:35:36.813000
-62,PH62,Female,35,Filipino,Rizal,None, ,Ortigas Hospital and Health Care Center,2020-03-13 00:00:00,14.585765,121.11779,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.866000
-61,PH61,Female,70,Filipino,San Juan City,None, ,University of the East Ramon Magsaysay Memorial Medical Center,2020-03-13 00:00:00,14.60703,121.020581,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.918000
-60,PH60,Male,43,For Validation,Makati City,For validation, ,St. Luke's Medical Center - Global City,2020-03-13 00:00:00,14.555128,121.048256,Mild,2020-03-17 09:00:00,2020-03-17 12:35:36.982000
-59,PH59,Male,27,Filipino,Makati City,With exposure history to a known COVID-19 case, ,Makati Medical Center,2020-03-13 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.037000
-58,PH58,Female,45,Filipino,Makati City,None, ,The Medical City - Ortigas,2020-03-13 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:37.099000
-57,PH57,Male,65,Filipino,Pasig City,London, ,The Medical City - Ortigas,2020-03-13 00:00:00,14.58989,121.069315,Critical,2020-03-17 09:00:00,2020-03-17 12:35:37.159000
-56,PH56,Male,41,Filipino,Parañaque City,None, ,St. Luke's Medical Center - Global City,2020-03-13 00:00:00,14.555128,121.048256,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:37.221000
-55,PH55,Female,59,Filipino,Quezon City,None, ,Cardinal Santos Medical Center,2020-03-13 00:00:00,14.597596,121.045994,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.284000
-54,PH54,Male,40,Filipino,Pasig City,None, ,San Lazaro Hospital,2020-03-12 00:00:00,14.613754,120.980815,Died on Mar. 15,2020-03-17 09:00:00,2020-03-17 12:35:37.346000
-53,PH53,Male,30,Filipino,Mandaluyong City,Japan, ,San Lazaro Hospital,2020-03-12 00:00:00,14.613754,120.980815,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.401000
-52,PH52,Female,79,Filipino,Batangas,None, ,Asian Hospital and Medical Center,2020-03-11 00:00:00,14.413478,121.043612,Critical,2020-03-17 09:00:00,2020-03-17 12:35:37.464000
-51,PH51,Male,26,Filipino,Quezon City,None, ,Makati Medical Center,2020-03-11 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.518000
-50,PH50,Female,69,Filipino,Quezon City,None, ,The Medical City - Ortigas,2020-03-11 00:00:00,14.58989,121.069315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.578000
-49,PH49,Male,72,Filipino,Batangas,None, ,Asian Hospital and Medical Center,2020-03-11 00:00:00,14.413478,121.043612,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.637000
-48,PH48,Male,57,Filipino,San Juan City,With Exposure History to a known COVID-19 case, ,Lung Center of the Philippines,2020-03-11 00:00:00,14.647821,121.045763,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:37.691000
-47,PH47,Male,53,Filipino,Mandaluyong City,For Validation, ,St. Luke's Medical Center - Quezon City,2020-03-11 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.755000
-46,PH46,Female,66,Filipino,Manila,None, ,St. Luke's Medical Center - Quezon City,2020-03-11 00:00:00,14.622677,121.023532,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.807000
-45,PH45,Male,27,Filipino,Quezon City,With Exposure History to a known COVID-19 case, ,Makati Medical Center,2020-03-11 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:37.868000
-44,PH44,Female,70,Filipino,Makati City,None, ,Makati Medical Center,2020-03-11 00:00:00,14.559177,121.014546,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:37.931000
-43,PH43,Male,47,Filipino,Makati City,None, ,Lung Center of the Philippines,2020-03-11 00:00:00,14.647821,121.045763,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:37.993000
-42,PH42,Female,51,Filipino,Pasig City,"Taipei, Taiwan", ,Lung Center of the Philippines,2020-03-11 00:00:00,14.647821,121.045763,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:38.046000
-41,PH41,Female,75,Filipino,Makati City,USA, ,Makati Medical Center,2020-03-11 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:38.107000
-40,PH40,Male,54,Filipino,Lanao del Sur,None, ,Northern Mindanao Medical Center,2020-03-11 00:00:00,8.485453,124.649503,Died on Mar. 13,2020-03-17 09:00:00,2020-03-17 12:35:38.161000
-39,PH39,Male,64,Filipino,Negros Oriental,Went to Greenhills, ,Siliman University Medical Center,2020-03-11 00:00:00,9.316274,123.303991,Died on Mar. 15,2020-03-17 09:00:00,2020-03-17 12:35:38.214000
-38,PH38,Male,29,Filipino,Rizal,With Exposure History to PH5, ,Cardinal Santos Medical Center,2020-03-11 00:00:00,14.597596,121.045994,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:38.279000
-37,PH37,Female,88,Filipino,Pasig City,None, ,Philippine Heart Center,2020-03-11 00:00:00,14.64407,121.048067,Died on Mar. 12,2020-03-17 09:00:00,2020-03-17 12:35:38.345000
-36,PH36,Male,53,Filipino,Las Piñas City,None, ,Las Piñas General Hospital and Satellite Trauma Center,2020-03-11 00:00:00,14.471649,120.973822,Severe,2020-03-17 09:00:00,2020-03-17 12:35:38.398000
-35,PH35,Female,67,Filipino,Makati City,None, ,Manila Doctors Hospital,2020-03-11 00:00:00,14.582028,120.982657,Died on Mar. 11,2020-03-17 09:00:00,2020-03-17 12:35:38.466000
-34,PH34,Male,72,Filipino,Makati City,None, ,Lung Center of the Philippines,2020-03-11 00:00:00,14.647821,121.045763,Mild,2020-03-17 09:00:00,2020-03-17 12:35:38.527000
-33,PH33,Male,60,Filipino,Makati City,None, ,Rizal Medical Center,2020-03-10 00:00:00,14.564216,121.065879,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:38.579000
-32,PH32,Male,64,Filipino,San Juan City,None, ,The Medical City - Ortigas,2020-03-10 00:00:00,14.58989,121.069315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:38.637000
-31,PH31,Female,28,Filipino,San Juan City,None,Sore throat,The Medical City - Ortigas,2020-03-10 00:00:00,14.58989,121.069315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:38.699000
-30,PH30,Female,69,Filipino,Marikina City,None,Dyspnea,The Medical City - Ortigas,2020-03-10 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:38.760000
-29,PH29,Male,82,Filipino,Marikina City,None,Difficulty of breathing,The Medical City - Ortigas,2020-03-10 00:00:00,14.58989,121.069315,Critical,2020-03-17 09:00:00,2020-03-17 12:35:38.812000
-28,PH28,Male,69,Filipino,Marikina City,None,Fever and cough,The Medical City - Ortigas,2020-03-10 00:00:00,14.58989,121.069315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:38.868000
-27,PH27,Female,42,Filipino,Marikina City,None,Occasional cough,The Medical City - Ortigas,2020-03-10 00:00:00,14.58989,121.069315,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:38.936000
-26,PH26,Male,34,Filipino, Camarines Sur,Diamond Princess Cruise Ship, ,Jose B. Lingad Memorial Regional Hospital,2020-03-10 00:00:00,15.03451,120.684733,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:38.995000
-25,PH25,Male,31,Filipino,Negros Oriental,Diamond Princess Cruise Ship, ,Jose B. Lingad Memorial Regional Hospital,2020-03-10 00:00:00,15.03451,120.684733,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:39.048000
-24,PH24,Male,52,Filipino,Quezon City,Switzerland, ,St. Luke's Medical Center - Quezon City,2020-03-09 00:00:00,14.622677,121.023532,Severe,2020-03-17 09:00:00,2020-03-17 12:35:39.100000
-23,PH23,Female,30,Filipino,San Juan City,None, ,San Lazaro Hospital,2020-03-09 00:00:00,14.613754,120.980815,Mild,2020-03-17 09:00:00,2020-03-17 12:35:39.159000
-22,PH22,Female,51,Filipino,San Juan City,None, ,Cardinal Santos Medical Center,2020-03-09 00:00:00,14.597596,121.045994,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:39.245000
-21,PH21,Female,58,Filipino,Bulacan,None, ,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,2020-03-09 00:00:00,14.766822,121.065003,Severe,2020-03-17 09:00:00,2020-03-17 12:35:39.303000
-20,PH20,Male,48,Filipino,Cavite,Japan, ,Research Institute for Tropical Medicine,2020-03-09 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:39.364000
-19,PH19,Female,46,Filipino,Pasig City,None, ,San Lazaro Hospital,2020-03-09 00:00:00,14.613754,120.980815,Mild,2020-03-17 09:00:00,2020-03-17 12:35:39.416000
-18,PH18,Male,41,Filipino,Pasig City,Taiwan, ,San Lazaro Hospital,2020-03-09 00:00:00,14.613754,120.980815,Mild,2020-03-17 09:00:00,2020-03-17 12:35:39.478000
-17,PH17,Female,69,Filipino,San Juan City,None, ,Research Institute for Tropical Medicine,2020-03-09 00:00:00,14.409523,121.037122,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:39.545000
-16,PH16,Male,70,Filipino,San Juan City,None, ,Research Institute for Tropical Medicine,2020-03-09 00:00:00,14.409523,121.037122,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:39.600000
-15,PH15,Male,24,Filipino,Makati City,UAE, ,Makati Medical Center,2020-03-09 00:00:00,14.559177,121.014546,Mild,2020-03-17 09:00:00,2020-03-17 12:35:39.662000
-14,PH14,Male,46,Filipino,Pasay City,None, ,Makati Medical Center,2020-03-09 00:00:00,14.559177,121.014546,Recovered,2020-03-17 09:00:00,2020-03-17 12:35:39.725000
-13,PH13,Male,34,Filipino,Quezon City,Australia, ,Makati Medical Center,2020-03-09 00:00:00,14.559177,121.014546,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:39.786000
-12,PH12,Male,56,Filipino,Manila,None, ,Makati Medical Center,2020-03-09 00:00:00,14.559177,121.014546,Died on Mar. 15,2020-03-17 09:00:00,2020-03-17 12:35:39.851000
-11,PH11,Male,72,Filipino,San Juan City,None,Productive cough and mild undocumented fever,The Medical City - Ortigas,2020-03-09 00:00:00,14.58989,121.069315,Mild,2020-03-17 09:00:00,2020-03-17 12:35:39.903000
-10,PH10,Male,57,Filipino,Quezon City,None, ,San Lazaro Hospital,2020-03-08 00:00:00,14.613754,120.980815,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:39.967000
-9,PH9,Male,86,American,Marikina City,"USA, Korea",Fever and Sore Throat,The Medical City - Ortigas,2020-03-08 00:00:00,14.58989,121.069315,Died on Mar. 14,2020-03-17 09:00:00,2020-03-17 12:35:40.019000
-8,PH8,Male,32,Filipino,Pasig City,Japan, ,St. Luke's Medical Center - Global City,2020-03-08 00:00:00,14.555128,121.048256,Asymptomatic,2020-03-17 09:00:00,2020-03-17 12:35:40.073000
-7,PH7,Male,38,Taiwanese,None,None, ,Makati Medical Center,2020-03-08 00:00:00,14.559177,121.014777,Mild,2020-03-17 09:00:00,2020-03-17 12:35:40.136000
-6,PH6,Female,59,Filipino,Rizal,None, ,Research Institute for Tropical Medicine,2020-03-06 00:00:00,14.409523,121.037122,Died on Mar. 11,2020-03-17 09:00:00,2020-03-17 12:35:40.198000
-5,PH5,Male,62,Filipino,Rizal,None, ,Research Institute for Tropical Medicine,2020-03-05 00:00:00,14.409523,121.037122,Died on Mar. 12,2020-03-17 09:00:00,2020-03-17 12:35:40.250000
-4,PH4,Male,48,Filipino,Taguig City,Japan, ,Research Institute for Tropical Medicine,2020-03-05 00:00:00,14.409523,121.037122,Mild,2020-03-17 09:00:00,2020-03-17 12:35:40.312000
-3,PH3,Female,60,Chinese,None,China, ,San Lazaro Hospital,2020-01-30 00:00:00,14.613754,120.980815,Recovered,2020-03-17 09:00:00,2020-03-17 12:35:40.372000
-2,PH2,Male,44,Chinese,None,China, ,San Lazaro Hospital,2020-01-30 00:00:00,14.613754,120.980815,Died on Feb. 1,2020-03-17 09:00:00,2020-03-17 12:35:40.449000
-1,PH1,Female,38,Chinese,None,China, ,San Lazaro Hospital,2020-01-30 00:00:00,14.613754,120.980815,Recovered,2020-03-17 09:00:00,2020-03-17 12:35:40.509000
+case_no,age,sex,nationality,travel_hist,detailed_history,status,symptoms,date_symptoms,date_admission,date_lab_confirmed,facility,latitude,longitude,residence,dashboard_last_updated,queried_at
+PH142,50,Male,For validation,For validation,For validation,Asymptomatic, ,For validation,For validation,For validation,RESU-NCR (Reporting Facility),14.585333000000000,121.03593000000000,For validation,2020-03-17 09:00:00,2020-03-17 12:35:31.936000
+PH141,63,Male,For validation,For validation,For validation,Asymptomatic, ,For validation,For validation,2020-03-16 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,For validation,2020-03-17 09:00:00,2020-03-17 12:35:32
+PH140,47,Female,Filipino,None,None,Asymptomatic, ,2020-03-04 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,Asian Hospital and Medical Center,14.413478,121.04361200000000,Parañaque City,2020-03-17 09:00:00,2020-03-17 12:35:32.062000
+PH139,44,Female,Filipino,None,None,Mild, ,2020-03-09 00:00:00,For Validation,2020-03-15 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Muntinlupa City,2020-03-17 09:00:00,2020-03-17 12:35:32.229000
+PH138,58,Male,Filipino,None,None,Asymptomatic, ,2020-03-09 00:00:00,For Validation,2020-03-15 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Las Piñas City,2020-03-17 09:00:00,2020-03-17 12:35:32.281000
+PH137,27,Female,Filipino,None,None,Asymptomatic, ,2020-03-10 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Rizal,2020-03-17 09:00:00,2020-03-17 12:35:32.345000
+PH136,47,Male,Filipino,None,None,Critical, ,2020-03-05 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,Silang Specialists Medical Center,14.234671000000000,120.972779,Cavite,2020-03-17 09:00:00,2020-03-17 12:35:32.398000
+PH135,13,Female,Filipino, ,None,Mild, ,2020-03-04 00:00:00,For Validation,2020-03-15 00:00:00,Quezon City Health Department (Reporting Facility),14.646154000000000,121.052315,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:32.451000
+PH134,47,Female,Filipino, ,None,Mild, ,2020-03-06 00:00:00,For Validation,2020-03-15 00:00:00,Quezon City Health Department (Reporting Facility),14.646154000000000,121.052315,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:32.503000
+PH133,27,Male,For Validation,None,None,Asymptomatic, ,2020-03-07 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,Quirino Memorial Medical Center,14.622224,121.07294000000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:32.556000
+PH132,69,Male,For Validation,For validation,For Validation,Mild, ,2020-02-26 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:32.646000
+PH131,29,Female,Filipino,Dubai,Dubai,Mild, ,2020-03-10 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,Our Lady of Lourdes Hospital,14.594872,121.022557,Mandaluyong City,2020-03-17 09:00:00,2020-03-17 12:35:32.710000
+PH130,21,Female,Filipino,"United Kingdom, Qatar","United Kingdom, Qatar",Asymptomatic, ,2020-03-03 00:00:00,2020-03-10 00:00:00,2020-03-15 00:00:00,Davao Regional Medical Center,7.421699,125.828704,Compostela Valley,2020-03-17 09:00:00,2020-03-17 12:35:32.779000
+PH129,67,Male,Filipino,None,None,Severe, ,2020-03-05 00:00:00,For Validation,2020-03-15 00:00:00,Diliman Doctors Hospital,14.668412,121.07606300000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:32.841000
+PH128,25,Female,Filipino,Taiwan,Taiwan,Asymptomatic, ,2020-03-09 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,Marikina Valley Medical Center,14.634719,121.10398700000000,Marikina City,2020-03-17 09:00:00,2020-03-17 12:35:32.895000
+PH127,24,Female,Filipino,Japan,Japan,Mild, ,2020-03-07 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,San Juan de Dios Education Foundation Inc. Hospital,14.538532,120.993035,Parañaque City,2020-03-17 09:00:00,2020-03-17 12:35:32.953000
+PH126,76,Male,Filipino,None,None,Critical, ,2020-03-02 00:00:00,2020-03-09 00:00:00,2020-03-15 00:00:00,Adventist Medical Center,14.555997,120.99541,Rizal,2020-03-17 09:00:00,2020-03-17 12:35:33.006000
+PH125,36,Male,Filipino,Cambodia,Cambodia,Asymptomatic, ,For Validation,For Validation,2020-03-15 00:00:00,Chinese General Hospital and Medical Center,14.625691,120.988565,Manila,2020-03-17 09:00:00,2020-03-17 12:35:33.070000
+PH124,65,Male,Filipino,Singapore,Singapore,Mild, ,2020-03-06 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:33.132000
+PH123,55,Male,Filipino,None,None,Mild, ,2020-03-09 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Manila,2020-03-17 09:00:00,2020-03-17 12:35:33.195000
+PH122,41,Male,Filipino,None,None,Mild, ,2020-03-03 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Tarlac,2020-03-17 09:00:00,2020-03-17 12:35:33.248000
+PH121,37,Male,Filipino,None,None,Mild, ,2020-03-03 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Manila,2020-03-17 09:00:00,2020-03-17 12:35:33.309000
+PH120,29,Female,For Validation,With Exposure to known COVID-19 case,"With exposure to 
+known COVID-19 case",Mild, ,2020-03-08 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:33.363000
+PH119,58,Male,For Validation,None,None,Asymptomatic, ,2020-03-03 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Parañaque City,2020-03-17 09:00:00,2020-03-17 12:35:33.427000
+PH118,60,Male,Filipino,None,None,Mild, ,2020-03-06 00:00:00,2020-03-12 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Manila,2020-03-17 09:00:00,2020-03-17 12:35:33.489000
+PH117,68,Male,Filipino,"Korea, USA","Korea, USA",Mild, ,2020-02-27 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:33.555000
+PH116,70,Female,Filipino,Japan,Japan,Mild, ,2020-03-03 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Bulacan,2020-03-17 09:00:00,2020-03-17 12:35:33.608000
+PH115,66,Male,Thai,Thailand,Thailand,Mild, ,2020-03-03 00:00:00,For Validation,2020-03-15 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:33.670000
+PH114,35,Male,Filipino,Japan,Japan,Mild, ,For Validation,For Validation,2020-03-14 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Caloocan City,2020-03-17 09:00:00,2020-03-17 12:35:33.731000
+PH113,31,Female,Filipino,With Exposure to known COVID-19 case,"With known exposure 
+to COVID-19 case",Mild, ,For Validation,For Validation,2020-03-14 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Bulacan,2020-03-17 09:00:00,2020-03-17 12:35:33.793000
+PH112,41,Male,Filipino, ,"Relative of PH41, 
+PH44, PH87",Mild, ,2020-03-09 00:00:00,For Validation,2020-03-14 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:33.858000
+PH111,44,Male,Filipino,None,None,Mild, ,2020-03-11 00:00:00,For Validation,For Validation,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:33.919000
+PH110,27,Female,Thai,None,None,Mild, ,2020-03-10 00:00:00,2020-03-11 00:00:00,For Validation,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Taguig City,2020-03-17 09:00:00,2020-03-17 12:35:33.981000
+PH109,44,Male,Filipino,None,None,Mild, ,2020-03-01 00:00:00,2020-03-11 00:00:00,For Validation,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:34.039000
+PH108,38,Male,Filipino,Malaysia,Malaysia,Asymptomatic, ,For Validation,2020-03-04 00:00:00,For Validation,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,For validation,2020-03-17 09:00:00,2020-03-17 12:35:34.101000
+PH107,57,Female,Filipino,None,None,Mild, ,2020-03-03 00:00:00,For Validation,For Validation,Philippine Heart Center,14.644070000000000,121.04806700000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:34.164000
+PH106,75,Female,Filipino,None,None,Asymptomatic, ,2020-03-09 00:00:00,2020-03-11 00:00:00,2020-03-15 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:34.224000
+PH105,38,Male,Filipino,None,"March 5, 2020",Asymptomatic, ,2020-03-05 00:00:00,For Validation,2020-03-16 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Mandaluyong City,2020-03-17 09:00:00,2020-03-17 12:35:34.285000
+PH104,62,Male,Filipino,None,None,Mild, ,2020-03-06 00:00:00,2020-03-06 00:00:00,For Validation,Lung Center of the Philippines,14.647821000000000,121.045763,Caloocan City,2020-03-17 09:00:00,2020-03-17 12:35:34.347000
+PH103,31,Male,For Validation,With Exposure to known COVID-19 case,"With exposure to 
+known COVID-19 case",Asymptomatic, ,Asymptomatic,For Validation,For Validation,Lung Center of the Philippines,14.647821000000000,121.045763,Caloocan City,2020-03-17 09:00:00,2020-03-17 12:35:34.407000
+PH102,55,Male,For Validation,For validation,For Validation,Critical, ,For Validation,For Validation,2020-03-16 00:00:00,Makati Medical Center,14.559177000000000,121.014546,For validation,2020-03-17 09:00:00,2020-03-17 12:35:34.460000
+PH101,55,Male,Filipino,None,None,Mild, ,2020-03-07 00:00:00,2020-03-11 00:00:00,2020-03-16 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:34.513000
+PH100,30,Male,For Validation,For validation,For Validation,Asymptomatic, ,For Validation,For Validation,2020-03-15 00:00:00,University of the East Ramon Magsaysay Memorial Hospital,14.607030000000000,121.020581,For validation,2020-03-17 09:00:00,2020-03-17 12:35:34.565000
+PH99,33,Male,Filipino,None,None,Mild, ,2020-03-04 00:00:00,2020-03-09 00:00:00,For Validation,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,14.766822,121.065003,Bulacan,2020-03-17 09:00:00,2020-03-17 12:35:34.627000
+PH98,50,Male,Filipino,None,None,Asymptomatic, ,2020-03-05 00:00:00,2020-03-10 00:00:00,2020-03-14 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:34.679000
+PH97,69,Male,Filipino,For validation,For Validation,Mild, ,2020-03-06 00:00:00,2020-03-09 00:00:00,2020-03-14 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Mandaluyong City,2020-03-17 09:00:00,2020-03-17 12:35:34.736000
+PH96,39,Male,Filipino,"UAE, Thailand","UAE, Thailand",Mild, ,2020-03-09 00:00:00,2020-03-15 00:00:00,2020-03-14 00:00:00,Ilocos Training and Regional Medical Center,16.591172,120.318298,Abra,2020-03-17 09:00:00,2020-03-17 12:35:34.797000
+PH95,64,Female,Filipino,For validation,For Validation,Severe, ,2020-03-03 00:00:00,2020-03-14 00:00:00,2020-03-14 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Batangas,2020-03-17 09:00:00,2020-03-17 12:35:34.849000
+PH94,49,Male,For Validation,For validation,For Validation,Asymptomatic, ,For Validation,For Validation,2020-03-13 00:00:00,Qualimed - Sta. Rosa Hospital,14.232660000000000,121.05258900000000,For validation,2020-03-17 09:00:00,2020-03-17 12:35:34.913000
+PH93,47,Male,Filipino,With Exposure to known COVID-19 case,"With Exposure to 
+known COVID-19 case",Mild, ,2020-03-09 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,Jose B. Lingad Memorial Regional Hospital,15.034510000000000,120.68473300000000,Pampanga,2020-03-17 09:00:00,2020-03-17 12:35:34.975000
+PH92,69,Male,Filipino,For Validation,None,Asymptomatic, ,2020-03-11 00:00:00,For Validation,2020-03-13 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:35.040000
+PH91,27,Female,Filipino,With Exposure to known COVID-19 case,"With Exposure to 
+known COVID-19 case",Mild, ,2020-03-09 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:35.093000
+PH90,66,Female,Filipino,With Exposure to known COVID-19 case,"With Exposure to 
+known COVID-19 case",Asymptomatic, ,For Validation,For Validation,2020-03-13 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:35.147000
+PH89,67,Male,Filipino,None,None,Died on Mar. 11, ,2020-03-07 00:00:00,2020-03-09 00:00:00,2020-03-13 00:00:00,Our Lady of Mt. Carmel Medical Center,15.182178,120.529903,Pampanga,2020-03-17 09:00:00,2020-03-17 12:35:35.206000
+PH88,33,Male,For Validation,None,None,Asymptomatic, ,2020-03-09 00:00:00,2020-03-11 00:00:00,2020-03-14 00:00:00,Quirino Memorial Medical Center,14.622224,121.07294000000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:35.267000
+PH87,76,Female,For Validation,None,"Sister of PH41 and 
+PH44; Relative of 
+PH112",Severe, ,2020-02-25 00:00:00,2020-03-10 00:00:00,2020-03-14 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:35.329000
+PH86,48,Male,For Validation, ,Contact of PH43,Asymptomatic, ,For Validation,For Validation,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,For validation,2020-03-17 09:00:00,2020-03-17 12:35:35.389000
+PH85,38,Male,Filipino,Japan,Japan,Asymptomatic, ,For Validation,For Validation,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Parañaque City,2020-03-17 09:00:00,2020-03-17 12:35:35.453000
+PH84,38,Female,Filipino,,Contact of PH43,Asymptomatic, ,For Validation,For Validation,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Taguig City,2020-03-17 09:00:00,2020-03-17 12:35:35.514000
+PH83,46,Male,Filipino, ,"With Exposure to 
+known COVID-19 case",Mild, ,2020-03-07 00:00:00,2020-03-11 00:00:00,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Pasay City,2020-03-17 09:00:00,2020-03-17 12:35:35.577000
+PH82,66,Male,Filipino,With exposure to known COVID-19 case,None,Severe, ,2020-03-05 00:00:00,2020-03-11 00:00:00,2020-03-14 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:35.637000
+PH81,25,Female,For Validation,For Validation,For Validation,Mild, ,2020-03-08 00:00:00,For Validation,2020-03-14 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Cavite,2020-03-17 09:00:00,2020-03-17 12:35:35.692000
+PH80,52,Male,Filipino,None,None,Severe, ,2020-02-29 00:00:00,For Validation,2020-03-14 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:35.753000
+PH79,68,Male,Filipino,None,None,Died on Mar. 13, ,2020-03-05 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,Manila Doctors Hospital,14.582028,120.982657,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:35.806000
+PH78,63,Female,For Validation,For validation,For Validation,Asymptomatic, ,For Validation,For Validation,2020-03-13 00:00:00,Chinese General Hospital and Medical Center,14.625691,120.988565,For validation,2020-03-17 09:00:00,2020-03-17 12:35:35.869000
+PH77,60,Male,For Validation,Japan,Japan,Critical, ,2020-03-02 00:00:00,2020-03-09 00:00:00,2020-03-13 00:00:00,Fatima University Medical Center,14.619168,121.152184,Antipolo City,2020-03-17 09:00:00,2020-03-17 12:35:35.952000
+PH76,59,Male,Filipino,For validation,For validation,Mild, ,2020-03-10 00:00:00,For validation,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:36.004000
+PH75,64,Male,Filipino,With Exposure to known COVID-19 case,"With Exposure to 
+known COVID-19 case",Severe, ,2020-03-07 00:00:00,2020-03-14 00:00:00,2020-03-13 00:00:00,Rizal Medical Center,14.564216,121.06587900000000,Cavite,2020-03-17 09:00:00,2020-03-17 12:35:36.057000
+PH74,49,Male,Filipino,None,None,Mild, ,2020-03-07 00:00:00,2020-03-11 00:00:00,2020-03-13 00:00:00,East Avenue Medical Center,14.642167,121.04806300000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:36.111000
+PH73,54,Male,Filipino,Thailand,Thailand,Mild, ,2020-03-06 00:00:00,2020-03-11 00:00:00,2020-03-13 00:00:00,Our Lady of Lourdes Hospital,14.594872,121.022557,Manila,2020-03-17 09:00:00,2020-03-17 12:35:36.164000
+PH72,41,Male,Filipino,Japan,Japan,Mild, ,2020-03-10 00:00:00,2020-03-11 00:00:00,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Laguna,2020-03-17 09:00:00,2020-03-17 12:35:36.235000
+PH71,59,Male,Filipino,None,None,Mild, ,2020-03-09 00:00:00,2020-03-11 00:00:00,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:36.289000
+PH70,35,Male,For Validation,"Thailand, Singapore","Thailand, Singapore",Mild, ,2020-03-07 00:00:00,2020-03-11 00:00:00,2020-03-13 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Lucena City,2020-03-17 09:00:00,2020-03-17 12:35:36.350000
+PH69,28,Female,For Validation,For validation ,For validation,Asymptomatic, ,For validation,For validation,2020-03-13 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,For validation,2020-03-17 09:00:00,2020-03-17 12:35:36.410000
+PH68,32,Male,Filipino,With Exposure to known COVID-19 case,"With Exposure to 
+known COVID-19 case",Asymptomatic, ,2020-03-09 00:00:00,For Validation,2020-03-13 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:36.471000
+PH67,23,Female,Filipino, ,"With Exposure to 
+PH21",Mild, ,2020-03-04 00:00:00,2020-03-15 00:00:00,2020-03-13 00:00:00,Santa Ana Hospital,14.583621000000000,121.016425,Manila,2020-03-17 09:00:00,2020-03-17 12:35:36.562000
+PH66,25,Male,Filipino, ,"With Exposure to 
+PH21 and PH67",Mild, ,2020-03-07 00:00:00,2020-03-15 00:00:00,2020-03-13 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:36.624000
+PH65,70,Male,Filipino, ,"With Exposure to 
+PH21",Asymptomatic, ,2020-03-02 00:00:00,2020-03-14 00:00:00,2020-03-13 00:00:00,Veterans Memorial Medical Center,14.65616,121.04012,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:36.685000
+PH64,32,Male,Filipino,None,None,Mild, ,2020-02-29 00:00:00,2020-03-09 00:00:00,2020-03-13 00:00:00,Bataan St. Joseph Hospital and Medical Center,14.681480000000000,120.54154400000000,Bataan,2020-03-17 09:00:00,2020-03-17 12:35:36.750000
+PH63,33,Male,Filipino,None,None,Severe, ,2020-03-06 00:00:00,2020-03-09 00:00:00,2020-03-13 00:00:00,Marikina Valley Medical Center,14.634719,121.10398700000000,Pampanga,2020-03-17 09:00:00,2020-03-17 12:35:36.813000
+PH62,35,Female,Filipino,None,None,Mild, ,2020-03-01 00:00:00,2020-03-16 00:00:00,2020-03-13 00:00:00,Ortigas Hospital and Health Care Center,14.585765000000000,121.11779000000000,Rizal,2020-03-17 09:00:00,2020-03-17 12:35:36.866000
+PH61,70,Female,Filipino,None,None,Mild, ,2020-03-05 00:00:00,2020-03-09 00:00:00,2020-03-13 00:00:00,University of the East Ramon Magsaysay Memorial Medical Center,14.607030000000000,121.020581,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:36.918000
+PH60,43,Male,For Validation,For validation,For Validation,Mild, ,2020-03-08 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:36.982000
+PH59,27,Male,Filipino,With exposure history to a known COVID-19 case,"With Exposure History 
+to a known COVID-19 
+case",Mild, ,2020-03-08 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:37.037000
+PH58,45,Female,Filipino,None,None,Asymptomatic, ,2020-03-06 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:37.099000
+PH57,65,Male,Filipino,London,London,Critical, ,2020-03-03 00:00:00,2020-03-10 00:00:00,2020-03-13 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:37.159000
+PH56,41,Male,Filipino,None,None,Asymptomatic, ,2020-03-04 00:00:00,2020-03-04 00:00:00,2020-03-13 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Parañaque City,2020-03-17 09:00:00,2020-03-17 12:35:37.221000
+PH55,59,Female,Filipino,None,None,Mild, ,For Validation,2020-03-10 00:00:00,2020-03-13 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:37.284000
+PH54,40,Male,Filipino,None,None,Died on Mar. 15, ,2020-03-01 00:00:00,2020-03-10 00:00:00,2020-03-12 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:37.346000
+PH53,30,Male,Filipino,Japan,Japan,Mild, ,2020-03-09 00:00:00,2020-03-10 00:00:00,2020-03-12 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Mandaluyong City,2020-03-17 09:00:00,2020-03-17 12:35:37.401000
+PH52,79,Female,Filipino,None,Sister of PH49,Critical, ,2020-03-01 00:00:00,2020-03-08 00:00:00,2020-03-11 00:00:00,Asian Hospital and Medical Center,14.413478,121.04361200000000,Batangas,2020-03-17 09:00:00,2020-03-17 12:35:37.464000
+PH51,26,Male,Filipino,None,None,Mild, ,2020-02-28 00:00:00,2020-03-04 00:00:00,2020-03-11 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:37.518000
+PH50,69,Female,Filipino,None,None,Mild, ,2020-03-08 00:00:00,2020-03-07 00:00:00,2020-03-11 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:37.578000
+PH49,72,Male,Filipino,None,Brother of PH52,Mild, ,2020-03-01 00:00:00,2020-03-09 00:00:00,2020-03-11 00:00:00,Asian Hospital and Medical Center,14.413478,121.04361200000000,Batangas,2020-03-17 09:00:00,2020-03-17 12:35:37.637000
+PH48,57,Male,Filipino,With Exposure History to a known COVID-19 case,None,Asymptomatic, ,2020-03-02 00:00:00,2020-03-09 00:00:00,2020-03-11 00:00:00,Lung Center of the Philippines,14.647821000000000,121.045763,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:37.691000
+PH47,53,Male,Filipino,For Validation,For Validation,Mild, ,2020-02-15 00:00:00,2020-03-01 00:00:00,2020-03-11 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Mandaluyong City,2020-03-17 09:00:00,2020-03-17 12:35:37.755000
+PH46,66,Female,Filipino,None,None,Mild, ,2020-02-29 00:00:00,2020-03-07 00:00:00,2020-03-11 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Manila,2020-03-17 09:00:00,2020-03-17 12:35:37.807000
+PH45,27,Male,Filipino,With Exposure History to a known COVID-19 case,"With Exposure History 
+to a known COVID-19 
+case",Mild, ,2020-03-08 00:00:00,,2020-03-11 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:37.868000
+PH44,70,Female,Filipino,None,"Sister of PH41 and 
+PH87; Relative of 
+PH112",Asymptomatic, ,2020-03-07 00:00:00,2020-03-09 00:00:00,2020-03-11 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:37.931000
+PH43,47,Male,Filipino,None,"Wife is Sister of PH12; 
+Close Contact of PH35",Asymptomatic, ,2020-03-09 00:00:00,2020-03-10 00:00:00,2020-03-11 00:00:00,Lung Center of the Philippines,14.647821000000000,121.045763,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:37.993000
+PH42,51,Female,Filipino,"Taipei, Taiwan","Taipei, Taiwan",Asymptomatic, ,2020-02-27 00:00:00,2020-03-09 00:00:00,2020-03-11 00:00:00,Lung Center of the Philippines,14.647821000000000,121.045763,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:38.046000
+PH41,75,Female,Filipino,USA,"USA; Sister of PH44 
+and PH87; Relative of 
+PH112",Mild, ,2020-03-01 00:00:00,2020-03-09 00:00:00,2020-03-11 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:38.107000
+PH40,54,Male,Filipino,None,None,Died on Mar. 13, ,2020-02-24 00:00:00,2020-03-03 00:00:00,2020-03-11 00:00:00,Northern Mindanao Medical Center,8.485453,124.649503,Lanao del Sur,2020-03-17 09:00:00,2020-03-17 12:35:38.161000
+PH39,64,Male,Filipino,Went to Greenhills,"With known exposure 
+to COVID-19 case",Died on Mar. 15, ,2020-03-03 00:00:00,2020-03-06 00:00:00,2020-03-11 00:00:00,Siliman University Medical Center,9.316274,123.303991,Negros Oriental,2020-03-17 09:00:00,2020-03-17 12:35:38.214000
+PH38,29,Male,Filipino,With Exposure History to PH5,"With Exposure History 
+to PH5",Asymptomatic, ,2020-03-10 00:00:00,2020-03-12 00:00:00,2020-03-11 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,Rizal,2020-03-17 09:00:00,2020-03-17 12:35:38.279000
+PH37,88,Female,Filipino,None,None,Died on Mar. 12, ,2020-03-02 00:00:00,2020-03-06 00:00:00,2020-03-11 00:00:00,Philippine Heart Center,14.644070000000000,121.04806700000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:38.345000
+PH36,53,Male,Filipino,None,None,Severe, ,2020-02-25 00:00:00,2020-03-08 00:00:00,2020-03-11 00:00:00,Las Piñas General Hospital and Satellite Trauma Center,14.471649,120.973822,Las Piñas City,2020-03-17 09:00:00,2020-03-17 12:35:38.398000
+PH35,67,Female,Filipino,None,Wife of PH34,Died on Mar. 11, ,2020-02-29 00:00:00,2020-03-05 00:00:00,2020-03-11 00:00:00,Manila Doctors Hospital,14.582028,120.982657,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:38.466000
+PH34,72,Male,Filipino,None,Husband of PH35,Mild, ,2020-03-06 00:00:00,2020-03-08 00:00:00,2020-03-11 00:00:00,Lung Center of the Philippines,14.647821000000000,121.045763,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:38.527000
+PH33,60,Male,Filipino,None,None,Asymptomatic, ,2020-03-03 00:00:00,2020-03-05 00:00:00,2020-03-10 00:00:00,Rizal Medical Center,14.564216,121.06587900000000,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:38.579000
+PH32,64,Male,Filipino,None,None,Mild, ,2020-02-27 00:00:00,2020-03-08 00:00:00,2020-03-10 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:38.637000
+PH31,28,Female,Filipino,None,"With Exposure History 
+to PH9",Mild,Sore throat,2020-03-07 00:00:00,2020-03-11 00:00:00,2020-03-10 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:38.699000
+PH30,69,Female,Filipino,None,"(Household of PH9) 
+Wife of PH28",Asymptomatic,Dyspnea,2020-03-04 00:00:00,2020-03-10 00:00:00,2020-03-10 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Marikina City,2020-03-17 09:00:00,2020-03-17 12:35:38.760000
+PH29,82,Male,Filipino,None,"(Household of PH9) 
+Wife of PH9",Critical,Difficulty of breathing,2020-03-09 00:00:00,2020-03-09 00:00:00,2020-03-10 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Marikina City,2020-03-17 09:00:00,2020-03-17 12:35:38.812000
+PH28,69,Male,Filipino,None,"(Household member of 
+PH9) Husband of 
+PH30",Mild,Fever and cough,2020-02-29 00:00:00,2020-03-09 00:00:00,2020-03-10 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Marikina City,2020-03-17 09:00:00,2020-03-17 12:35:38.868000
+PH27,42,Female,Filipino,None,"(Household member of 
+PH9) Niece of PH9",Asymptomatic,Occasional cough,2020-02-07 00:00:00,2020-03-10 00:00:00,2020-03-10 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Marikina City,2020-03-17 09:00:00,2020-03-17 12:35:38.936000
+PH26,34,Male,Filipino,Diamond Princess Cruise Ship,"Diamond Princess 
+Cruise Ship",Asymptomatic, ,Asymptomatic,2020-03-10 00:00:00,2020-03-10 00:00:00,Jose B. Lingad Memorial Regional Hospital,15.034510000000000,120.68473300000000, Camarines Sur,2020-03-17 09:00:00,2020-03-17 12:35:38.995000
+PH25,31,Male,Filipino,Diamond Princess Cruise Ship,"Diamond Princess 
+Cruise Ship",Asymptomatic, ,Asymptomatic,2020-03-10 00:00:00,2020-03-10 00:00:00,Jose B. Lingad Memorial Regional Hospital,15.034510000000000,120.68473300000000,Negros Oriental,2020-03-17 09:00:00,2020-03-17 12:35:39.048000
+PH24,52,Male,Filipino,Switzerland,Switzerland,Severe, ,2020-03-06 00:00:00,2020-03-07 00:00:00,2020-03-09 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:39.100000
+PH23,30,Female,Filipino,None,None,Mild, ,2020-03-03 00:00:00,2020-03-07 00:00:00,2020-03-09 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:39.159000
+PH22,51,Female,Filipino,None,None,Asymptomatic, ,2020-03-04 00:00:00,2020-03-05 00:00:00,2020-03-09 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:39.245000
+PH21,58,Female,Filipino,None,None,Severe, ,2020-03-04 00:00:00,2020-03-08 00:00:00,2020-03-09 00:00:00,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,14.766822,121.065003,Bulacan,2020-03-17 09:00:00,2020-03-17 12:35:39.303000
+PH20,48,Male,Filipino,Japan,Yes. Japan,Mild, ,2020-02-29 00:00:00,2020-03-07 00:00:00,2020-03-09 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Cavite,2020-03-17 09:00:00,2020-03-17 12:35:39.364000
+PH19,46,Female,Filipino,None,Wife of PH18,Mild, ,Asymptomatic,2020-03-07 00:00:00,2020-03-09 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:39.416000
+PH18,41,Male,Filipino,Taiwan,"Taiwan; Husband of 
+PH19",Mild, ,2020-02-26 00:00:00,2020-03-01 00:00:00,2020-03-09 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:39.478000
+PH17,69,Female,Filipino,None,Wife of PH16,Asymptomatic, ,2020-03-02 00:00:00,2020-03-06 00:00:00,2020-03-09 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:39.545000
+PH16,70,Male,Filipino,None,Husband of PH17,Asymptomatic, ,2020-03-01 00:00:00,2020-03-06 00:00:00,2020-03-09 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:39.600000
+PH15,24,Male,Filipino,UAE,Yes (UAE),Mild, ,2020-03-01 00:00:00,2020-03-07 00:00:00,2020-03-09 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Makati City,2020-03-17 09:00:00,2020-03-17 12:35:39.662000
+PH14,46,Male,Filipino,None,None,Recovered, ,2020-02-25 00:00:00,2020-03-05 00:00:00,2020-03-09 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Pasay City,2020-03-17 09:00:00,2020-03-17 12:35:39.725000
+PH13,34,Male,Filipino,Australia,Yes (Australia),Asymptomatic, ,2020-02-28 00:00:00,2020-03-06 00:00:00,2020-03-09 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:39.786000
+PH12,56,Male,Filipino,None,"Contact of PH42, 
+PH43",Died on Mar. 15, ,2020-02-29 00:00:00,2020-03-07 00:00:00,2020-03-09 00:00:00,Makati Medical Center,14.559177000000000,121.014546,Manila,2020-03-17 09:00:00,2020-03-17 12:35:39.851000
+PH11,72,Male,Filipino,None,None,Mild,Productive cough and mild undocumented fever,2020-03-03 00:00:00,2020-03-07 00:00:00,2020-03-09 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,San Juan City,2020-03-17 09:00:00,2020-03-17 12:35:39.903000
+PH10,57,Male,Filipino,None,None,Asymptomatic, ,2020-02-20 00:00:00,2020-03-07 00:00:00,2020-03-08 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,Quezon City,2020-03-17 09:00:00,2020-03-17 12:35:39.967000
+PH9,86,Male,American,"USA, Korea","Yes (USA, Korea); In 
+same household with 
+PH27-30; Contact of 
+PH31",Died on Mar. 14,Fever and Sore Throat,2020-03-01 00:00:00,2020-03-06 00:00:00,2020-03-08 00:00:00,The Medical City - Ortigas,14.589890000000000,121.06931500000000,Marikina City,2020-03-17 09:00:00,2020-03-17 12:35:40.019000
+PH8,32,Male,Filipino,Japan,Yes (Japan),Asymptomatic, ,2020-03-05 00:00:00,2020-03-05 00:00:00,2020-03-08 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000000,Pasig City,2020-03-17 09:00:00,2020-03-17 12:35:40.073000
+PH7,38,Male,Taiwanese,None,"No Travel History; 
+Contact of FN2",Mild, ,2020-03-03 00:00:00,2020-03-06 00:00:00,2020-03-08 00:00:00,Makati Medical Center,14.559177000000000,121.014777,None,2020-03-17 09:00:00,2020-03-17 12:35:40.136000
+PH6,59,Female,Filipino,None,Wife of PH5,Died on Mar. 11, ,2020-02-27 00:00:00,2020-03-05 00:00:00,2020-03-06 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Rizal,2020-03-17 09:00:00,2020-03-17 12:35:40.198000
+PH5,62,Male,Filipino,None,Husband of PH6,Died on Mar. 12, ,2020-02-25 00:00:00,2020-03-05 00:00:00,2020-03-05 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Rizal,2020-03-17 09:00:00,2020-03-17 12:35:40.250000
+PH4,48,Male,Filipino,Japan,Yes (Japan),Mild, ,2020-03-03 00:00:00,2020-03-06 00:00:00,2020-03-05 00:00:00,Research Institute for Tropical Medicine,14.409523000000000,121.037122,Taguig City,2020-03-17 09:00:00,2020-03-17 12:35:40.312000
+PH3,60,Female,Chinese,China,Yes (China),Recovered, ,2020-01-21 00:00:00,2020-01-22 00:00:00,2020-01-30 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,None,2020-03-17 09:00:00,2020-03-17 12:35:40.372000
+PH2,44,Male,Chinese,China,"Yes (China); Husband 
+of PH1",Died on Feb. 1, ,2020-01-18 00:00:00,2020-01-25 00:00:00,2020-01-30 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,None,2020-03-17 09:00:00,2020-03-17 12:35:40.449000
+PH1,38,Female,Chinese,China,"Yes (China); Wife of 
+PH2",Recovered, ,2020-01-21 00:00:00,2020-01-25 00:00:00,2020-01-30 00:00:00,San Lazaro Hospital,14.613754,120.98081500000000,None,2020-03-17 09:00:00,2020-03-17 12:35:40.509000
