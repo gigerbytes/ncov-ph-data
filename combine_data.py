@@ -17,7 +17,7 @@ db = client['ncov']
 
 def combine_cases():
     cases_ph = db['cases_ph']
-    cases_ph_cur = cases_ph.find({})
+    cases_ph_cur = cases_ph.find({'dashboard_last_updated':dt.datetime(2020, 3, 17, 9, 0)})
 
     cases_ph_ar = []
     for case in cases_ph_cur:
@@ -35,7 +35,6 @@ def combine_cases():
             'latitude': case['latitude'],
             'longitude': case['longitude'],
             'status': case['status'],
-            'dashboard_version': case['dashboard_version'],
             'dashboard_last_updated': case['dashboard_last_updated'],
             'queried_at': case['inserted_at']
         }

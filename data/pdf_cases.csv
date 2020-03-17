@@ -1,0 +1,334 @@
+,case_no,age,sex,nationality,travel_hx,date_symptom,date_admission,date_confirmation,facility,residence
+2,PH1,F,38,Chinese,"Yes (China); Wife of 
+PH2","January 21, 2020","January 25, 2020","January 30, 2020",San Lazaro Hospital,None
+3,PH2,M,44,Chinese,"Yes (China); Husband 
+of PH1","January 18, 2020","January 25, 2020","January 30, 2020",San Lazaro Hospital,None
+4,PH3,F,60,Chinese,Yes (China),"January 21, 2020","January 22, 2020","January 30, 2020",San Lazaro Hospital,None
+5,PH4,M,48,Filipino,Yes (Japan),"March 3, 2020","March 6, 2020","March 5, 2020","Research Institute for 
+Tropical Medicine",Taguig
+6,PH5,M,62,Filipino,Husband of PH6,"February 25, 2020","March 5, 2020","March 5, 2020","Research Institute for 
+Tropical Medicine",Rizal
+7,PH6,F,59,Filipino,Wife of PH5,"February 27, 2020","March 5, 2020","March 6, 2020","Research Institute for 
+Tropical Medicine",Rizal
+8,PH7,M,38,Taiwanese,"No Travel History; 
+Contact of FN2","March 3, 2020","March 6, 2020","March 8, 2020",Makati Medical Center,Makati City
+9,PH8,M,32,Filipino,Yes (Japan),"March 5, 2020","March 5, 2020","March 8, 2020","St. Luke's Medical 
+Center - Taguig",Pasig City
+10,PH9,M,86,American,"Yes (USA, Korea); In 
+same household with 
+PH27-30; Contact of 
+PH31","March 1, 2020","March 6, 2020","March 8, 2020","The Medical City - 
+Ortigas",Marikina City
+11,PH10,M,57,Filipino,None,"February 20, 2020","March 7, 2020","March 8, 2020",San Lazaro Hospital,Quezon City
+12,PH11,M,72,Filipino,None,"March 3, 2020
+(Cough with co-
+morbidity)","March 7, 2020","March 9, 2020","The Medical City - 
+Ortigas",San Juan City
+13,PH12,M,56,Filipino,"Contact of PH42, 
+PH43","February 29, 2020
+(Fever and cough)","March 7, 2020","March 9, 2020",Makati Medical Center,Manila City
+14,PH13,M,34,Filipino,Yes (Australia),"February 28, 2020
+(Fever)","March 6, 2020","March 9, 2020",Makati Medical Center,Quezon City
+15,PH14,M,46,Filipino,None,"February 25, 2020
+Fever and Cough","March 5, 2020","March 9, 2020",Makati Medical Center,Pasay City
+16,PH15,M,24,Filipino,Yes (UAE),"March 1, 2020
+Cough","March 7, 2020","March 9, 2020",Makati Medical Center,Makati City
+17,PH16,M,70,Filipino,Husband of PH17,"March 1, 2020
+(Cough, Sore throat, 
+and colds)","March 6, 2020","March 9, 2020","Research Institute for 
+Tropical Medicine",San Juan City
+18,PH17,F,69,Filipino,Wife of PH16,"March 2, 2020
+(Cough and colds with 
+hypertension)","March 6, 2020","March 9, 2020","Research Institute for 
+Tropical Medicine",San Juan City
+19,PH18,M,41,Filipino,"Taiwan; Husband of 
+PH19","February 26, 2020
+Fever, headache and 
+body malaise","March 1, 2020","March 9, 2020",San Lazaro Hospital,Pasig City
+0,PH19,F,46,Filipino,Wife of PH18,Asymptomatic,"March 7, 2020","March 9, 2020",San Lazaro Hospital,Pasig City
+1,PH20,M,48,Filipino,Yes. Japan,"February 29, 2020
+Cough and body 
+malaise","March 7, 2020","March 9, 2020","Research Institute for 
+Tropical Medicine",Cavite
+2,PH21,F,58,Filipino,None,"March 4, 2020
+Fever, cough, 
+shortness of breath","March 8, 2020","March 9, 2020","Dr. Jose N. Rodriguez 
+Memorial Hospital and 
+Sanitarium","San Jose Del Monte, 
+Bulacan"
+3,PH22,F,51,Filipino,None,"March 4, 2020
+Cough, colds, 
+dysphagia","March 5, 2020","March 9, 2020","Cardinal Santos 
+Medical Center",San Juan City
+4,PH23,F,30,Filipino,None,"March 3, 2020
+Cough, sore throat, 
+headache","March 7, 2020","March 9, 2020",San Lazaro Hospital,San Juan City
+5,PH24,M,52,Filipino,Switzerland,"March 6, 2020","March 7, 2020","March 9, 2020","St. Luke's Medical 
+Center - QC",Quezon City
+6,PH25,M,31,Filipino,"Diamond Princess 
+Cruise Ship",Asymptomatic,"March 10, 2020","March 10, 2020","Jose B. Lingad 
+Memorial Regional 
+Hospital",Negros Oriental
+7,PH26,M,34,Filipino,"Diamond Princess 
+Cruise Ship",Asymptomatic,"March 10, 2020","March 10, 2020","Jose B. Lingad 
+Memorial Regional 
+Hospital",Camarines Sur
+8,PH27,F,42,Filipino,"(Household member of 
+PH9) Niece of PH9","February 7, 2020","March 10, 2020","March 10, 2020","The Medical City - 
+Ortigas",Marikina City
+9,PH28,M,69,Filipino,"(Household member of 
+PH9) Husband of 
+PH30","February 29, 2020","March 9, 2020","March 10, 2020","The Medical City - 
+Ortigas",Marikina City
+10,PH29,F,82,Filipino,"(Household of PH9) 
+Wife of PH9","March 9, 2020","March 9, 2020","March 10, 2020","The Medical City - 
+Ortigas",Marikina City
+11,PH30,F,69,Filipino,"(Household of PH9) 
+Wife of PH28","March 4, 2020","March 10, 2020","March 10, 2020","The Medical City - 
+Ortigas",Marikina City
+12,PH31,F,28,Filipino,"With Exposure History 
+to PH9","March 7, 2020","March 11, 2020","March 10, 2020","The Medical City - 
+Ortigas",San Juan City
+13,PH32,M,64,Filipino,None,"February 27, 2020","Consulted TMC on 
+March 8, 2020","March 10, 2020","The Medical City - 
+Ortigas",San Juan City
+14,PH33,M,60,Filipino,None,"March 3, 2020
+Fever, cough and 
+dizziness","March 5, 2020","March 10, 2020",Rizal Medical Center,Makati City
+15,PH34,M,72,Filipino,Husband of PH35,"March 6, 2020","March 8, 2020","March 11, 2020","Lung Center of the 
+Philippines",Makati City
+16,PH35,F,67,Filipino,Wife of PH34,"February 29, 2020","March 5, 2020","March 11, 2020","Manila Doctors 
+Hospital",Makati City
+0,PH36,M,53,Filipino,None,"February 25, 2020","March 8, 2020","March 11, 2020","Las Piñas General 
+Hospital",Las Pinas City
+1,PH37,F,88,Filipino,None,"March 2, 2020","March 6, 2020","March 11, 2020",Philippine Heart Center,Pasig City
+2,PH38,M,29,Filipino,"With Exposure History 
+to PH5","March 10, 2020","March 12, 2020","March 11, 2020","Cardinal Santos 
+Medical Center",Rizal
+3,PH39,M,64,Filipino,"With known exposure 
+to COVID-19 case","March 3, 2020","March 6, 2020","March 11, 2020","Siliman University 
+Medical Center",Negros Oriental
+4,PH40,M,54,Filipino,None,"February 24, 2020","March 3, 2020","March 11, 2020","Northern Mindanao 
+Medical Center",Lanao del Sur
+5,PH41,F,75,Filipino,"USA; Sister of PH44 
+and PH87; Relative of 
+PH112","March 1, 2020","March 9, 2020","March 11, 2020",Makati Medical Center,Makati City
+6,PH42,M,51,Filipino,"Taipei, Taiwan","February 27, 2020","March 9, 2020","March 11, 2020","Lung Center of the 
+Philippines",Pasig City
+7,PH43,M,47,Filipino,"Wife is Sister of PH12; 
+Close Contact of PH35","March 9, 2020","March 10, 2020","March 11, 2020","Lung Center of the 
+Philippines",Makati City
+8,PH44,F,70,Filipino,"Sister of PH41 and 
+PH87; Relative of 
+PH112","March 7, 2020","March 9, 2020","March 11, 2020",Makati Medical Center,Makati City
+9,PH45,M,27,Filipino,"With Exposure History 
+to a known COVID-19 
+case","March 8, 2020",,"March 11, 2020",Makati Medical Center,Quezon City
+10,PH46,F,66,Filipino,None,"February 29, 2020","March 7, 2020","March 11, 2020","St. Luke's Medical 
+Center - QC",Manila
+11,PH47,M,53,Filipino,For Validation,"February 15, 2020","March 1, 2020","March 11, 2020","St. Luke's Medical 
+Center - QC",Mandaluyong City
+12,PH48,M,57,Filipino,None,"March 2, 2020","March 9, 2020","March 11, 2020","Lung Center of the 
+Philippines",San Juan City
+13,PH49,M,72,Filipino,Brother of PH52,"March 1, 2020","March 9, 2020","March 11, 2020","Asian Hospital and 
+Medical Center",Batangas
+14,PH50,F,69,Filipino,None,"March 8, 2020","March 7, 2020","March 11, 2020","The Medical City - 
+Ortigas",Quezon City
+15,PH51,M,26,Filipino,None,"February 28, 2020","March 4, 2020","March 11, 2020",Makati Medical Center,Quezon City
+16,PH52,F,79,Filipino,Sister of PH49,"March 1, 2020","March 8, 2020","March 11, 2020","Asian Hospital and 
+Medical Center",Batangas
+17,PH53,M,30,Filipino,Japan,"March 9, 2020","March 10, 2020","March 12, 2020",San Lazaro Hospital,Mandaluyong City
+18,PH54,M,40,Filipino,None,"March 1, 2020","March 10, 2020","March 12, 2020",San Lazaro Hospital,Pasig City
+19,PH55,F,59,Filipino,None,For Validation,"March 10, 2020","March 13, 2020","Cardinal Santos 
+Medical Center",Quezon City
+20,PH56,M,41,Filipino,None,"March 4, 2020","March 4, 2020","March 13, 2020","St. Luke's Medical 
+Center-Global City",Paranaque City
+21,PH57,M,65,Filipino,London,"March 3, 2020","March 10, 2020","March 13, 2020","The Medical City - 
+Ortigas",Pasig City
+0,PH58,F,45,Filipino,None,"March 6, 2020","March 10, 2020","March 13, 2020","The Medical City - 
+Ortigas",Makati City
+1,PH59,M,27,Filipino,"With Exposure History 
+to a known COVID-19 
+case","March 8, 2020","March 10, 2020","March 13, 2020",Makati Medical Center,Makati City
+2,PH60,M,49,For Validation,For Validation,"March 8, 2020","March 10, 2020","March 13, 2020","St. Luke's Medical 
+Center-Global City",Makati City
+3,PH61,F,70,Filipino,None,"March 5, 2020","March 9, 2020","March 13, 2020","University of the East 
+Ramon Magsaysay 
+Memorial Medical 
+Center",San Juan City
+4,PH62,F,35,Filipino,None,"March 1, 2020","March 16, 2020","March 13, 2020","Ortigas Hospital and 
+Health Care Center",Rizal
+5,PH63,M,33,Filipino,None,"March 6, 2020","March 9, 2020","March 13, 2020","Marikina Valley 
+Medical Center","Porac, Pampanga"
+6,PH64,M,32,Filipino,None,"February 29, 2020","March 9, 2020","March 13, 2020","Bataan St. Joseph 
+Hospital and Medical 
+Center",Bataan
+7,PH65,M,70,Filipino,"With Exposure to 
+PH21","March 2, 2020","March 14, 2020","March 13, 2020","Veterans Memorial 
+Medical Center",San Juan City
+8,PH66,M,25,Filipino,"With Exposure to 
+PH21 and PH67","March 7, 2020","March 15, 2020","March 13, 2020",San Lazaro Hospital,Pasig City
+9,PH67,F,23,Filipino,"With Exposure to 
+PH21","March 4, 2020","March 15, 2020","March 13, 2020",Santa Ana Hospital,Manila City
+10,PH68,M,32,Filipino,"With Exposure to 
+known COVID-19 case","March 9, 2020",For Validation,"March 13, 2020","The Medical City - 
+Ortigas",Quezon City
+11,PH69,F,28,For validation,For validation,For validation,For validation,"March 13, 2020","The Medical City - 
+Ortigas",For validation
+12,PH70,M,35,For validation,"Thailand, Singapore","March 7, 2020","March 11, 2020","March 13, 2020","Research Institute for 
+Tropical Medicine",Lucena City
+13,PH71,M,59,Filipino,None,"March 9, 2020","March 11, 2020","March 13, 2020","Research Institute for 
+Tropical Medicine",San Juan City
+14,PH72,M,41,Filipino,Japan,"March 10, 2020","March 11, 2020","March 13, 2020","Research Institute for 
+Tropical Medicine",Laguna
+15,PH73,M,54,Filipino,Thailand,"March 6, 2020","March 11, 2020","March 13, 2020","Our Lady of Lourdes 
+Hospital",Manila
+16,PH74,M,49,Filipino,None,"March 7, 2020","March 11, 2020","March 13, 2020","East Avenue Medical 
+Center",Quezon City
+17,PH75,M,64,Filipino,"With Exposure to 
+known COVID-19 case","March 7, 2020","March 14, 2020","March 13, 2020",Rizal Medical Center,Cavite
+18,PH76,M,59,Filipino,For validation,"March 10, 2020",For validation,"March 13, 2020","Research Institute for 
+Tropical Medicine",San Juan City
+19,PH77,M,60,For Validation,Japan,"March 2, 2020","March 9, 2020","March 13, 2020","Fatima University 
+Medical Center",Antipolo City
+0,PH78,F,63,For Validation,For Validation,For Validation,For Validation,"March 13, 2020","Chinese General 
+Hospital and Medical 
+Center",For validation
+1,PH79,M,68,Filipino,None,"March 5, 2020","March 10, 2020","March 13, 2020","Manila Doctors 
+Hospital",Makati City
+2,PH80,M,52,Filipino,None,"February 29, 2020",For Validation,"March 14, 2020",UST Hospital,Quezon City
+3,PH81,F,25,For Validation,For Validation,"March 8, 2020",For Validation,"March 14, 2020","St. Luke's Medical 
+Center - Quezon City",Cavite
+4,PH82,M,66,Filipino,None,"March 5, 2020","March 11, 2020","March 14, 2020","University of Sto. 
+Tomas Hospital",Quezon City
+5,PH83,M,46,Filipino,"With Exposure to 
+known COVID-19 case","March 7, 2020","March 11, 2020","March 13, 2020","Research Institute for 
+Tropical Medicine",Pasay City
+6,PH84,F,38,Filipino,Contact of PH43,For Validation,For Validation,"March 13, 2020","Research Institute for 
+Tropical Medicine",Taguig
+7,PH85,M,38,Filipino,Japan,For Validation,For Validation,"March 13, 2020","Research Institute for 
+Tropical Medicine",Paranaque City
+8,PH86,M,48,For Validation,Contact of PH43,For Validation,For Validation,"March 13, 2020","Research Institute for 
+Tropical Medicine",For Validation
+9,PH87,F,76,For Validation,"Sister of PH41 and 
+PH44; Relative of 
+PH112","February 25, 2020","March 10, 2020","March 14, 2020","St. Luke's Medical 
+Center - Quezon City",Quezon City
+10,PH88,M,33,For Validation,None,"March 9, 2020","March 11, 2020","March 14, 2020",Quirino Medical Center,San Juan City
+11,PH89,M,67,Filipino,None,"March 7, 2020","March 9, 2020","March 13, 2020","Our Lady of Mt. 
+Carmel Medical Center","San Fernando, 
+Pampanga"
+12,PH90,F,66,Filipino,"With Exposure to 
+known COVID-19 case",For Validation,For Validation,"March 13, 2020","The Medical City - 
+Ortigas",San Juan City
+13,PH91,F,27,Filipino,"With Exposure to 
+known COVID-19 case","March 9, 2020","March 10, 2020","March 13, 2020","The Medical City - 
+Ortigas",Quezon City
+14,PH92,M,69,Filipino,None,"March 11, 2020",For Validation,"March 13, 2020","St. Luke's Medical 
+Center - Global City",Makati City
+15,PH93,M,47,Filipino,"With Exposure to 
+known COVID-19 case","March 9, 2020","March 10, 2020","March 13, 2020","Jose B. Lingad 
+Memorial Regional 
+Hospital",Quezon City
+16,PH94,M,49,For Validation,For Validation,For Validation,For Validation,"March 13, 2020","Qualimed - Sta. Rosa 
+Hospital",For Validation
+17,PH95,F,64,Filipino,For Validation,"March 3, 2020","March 14, 2020","March 14, 2020",San Lazaro Hospital,Batangas
+18,PH96,M,39,Filipino,"UAE, Thailand","March 9, 2020","March 15, 2020","March 14, 2020","Ilocos Training and 
+Regional Medical 
+Center",Abra
+19,PH97,M,69,Filipino,For Validation,"March 6, 2020","March 9, 2020","March 14, 2020",San Lazaro Hospital,Mandaluyong
+20,PH98,M,50,Filipino,None,"March 5, 2020","March 10, 2020","March 14, 2020","Cardinal Santos 
+Medical Center",San Juan City
+0,PH99,M,33,Filipino,None,"March 4, 2020","March 9, 2020",For Validation,"Dr. Jose N. Rodriguez 
+Memorial Hospital and 
+Sanitarium",Bulacan
+1,PH100,M,30,For Validation,For Validation,For Validation,For Validation,"March 15, 2020","University of the East 
+Ramon Magsaysay 
+Memorial Hospital",For Validation
+2,PH101,M,55,Filipino,None,"March 7, 2020","March 11, 2020","March 16, 2020",Makati Medical Center,Quezon City
+3,PH102,M,55,For Validation,For Validation,For Validation,For Validation,"March 16, 2020",Makati Medical Center,For Validation
+4,PH103,M,55,For Validation,"With exposure to 
+known COVID-19 case",Asymptomatic,For Validation,For Validation,"Lung Center of the 
+Philippines",Caloocan
+5,PH104,M,62,Filipino,None,"March 6, 2020","March 6, 2020",For Validation,"Lung Center of the 
+Philippines",Caloocan
+6,PH105,M,38,Filipino,"March 5, 2020","March 5, 2020",For Validation,For Validation,"The Medical City - 
+Ortigas",Mandaluyong
+7,PH106,F,75,Filipino,None,"March 9, 2020","March 11, 2020","March 15, 2020","The Medical City - 
+Ortigas",Pasig City
+8,PH107,F,57,Filipino,None,"March 3, 2020",For Validation,For Validation,Philippine Heart Center,Quezon City
+9,PH108,M,38,Filipino,Malaysia,For Validation,"March 4, 2020",For Validation,"St. Luke's Medical 
+Center - Global City",For Validation
+10,PH109,M,44,Filipino,None,"March 1, 2020","March 11, 2020",For Validation,"St. Luke's Medical 
+Center - Global City",Pasig City
+11,PH110,F,27,Thai,None,"March 10, 2020","March 11, 2020",For Validation,"St. Luke's Medical 
+Center - Global City",Taguig City
+12,PH111,M,44,Filipino,None,"March 11, 2020",For Validation,For Validation,"St. Luke's Medical 
+Center - Global City",Pasig City
+13,PH112,M,41,Filipino,"Relative of PH41, 
+PH44, PH87","March 9, 2020",For Validation,"March 14, 2020","St. Luke's Medical 
+Center - Global City",Makati
+14,PH113,F,31,Filipino,"With known exposure 
+to COVID-19 case",For Validation,For Validation,"March 14, 2020","St. Luke's Medical 
+Center - Global City",Bulacan
+15,PH114,M,35,Filipino,Japan,For Validation,For Validation,"March 14, 2020","St. Luke's Medical 
+Center - Global City",Caloocan
+16,PH115,M,66,Thai,Thailand,"March 3, 2020",For Validation,"March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Quezon City
+17,PH116,F,70,Filipino,Japan,"March 3, 2020","March 11, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Bulacan
+18,PH117,M,68,Filipino,"Korea, USA","February 27, 2020","March 11, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Quezon City
+19,PH118,M,60,Filipino,None,"March 6, 2020","March 12, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Manila
+20,PH119,M,58,For Validation,None,"March 3, 2020","March 12, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Paranaque City
+21,PH120,F,29,"With exposure to 
+known COVID-19 case","With exposure to 
+known COVID-19 case","March 8, 2020","March 12, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Quezon City
+0,PH121,M,37,Filipino,None,"March 3, 2020","March 11, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Manila
+1,PH122,M,41,Filipino,None,"March 3, 2020","March 11, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Tarlac
+2,PH123,M,55,Filipino,None,"March 9, 2020","March 12, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Manila
+3,PH124,M,65,Filipino,Singapore,"March 6, 2020","March 11, 2020","March 15, 2020","St. Luke's Medical 
+Center - Quezon City",Quezon City
+4,PH125,M,36,Filipino,Cambodia,For Validation,For Validation,"March 15, 2020","Chinese General 
+Hospital and Medical 
+Center",Manila
+5,PH126,M,76,Filipino,None,"March 2, 2020","March 9, 2020","March 15, 2020","Adventist Medical 
+Center - Manila",Rizal
+6,PH127,F,24,Filipino,Japan,"March 7, 2020","March 11, 2020","March 15, 2020","San Juan de Dios 
+Education Foundation 
+Inc. Hospital",Paranaque City
+7,PH128,F,25,Filipino,Taiwan,"March 9, 2020","March 11, 2020","March 15, 2020","Marikina Valley 
+Medical Center",Marikina
+8,PH129,M,67,Filipino,None,"March 5, 2020",For Validation,"March 15, 2020","Diliman Doctors 
+Hospital",Quezon City
+9,PH130,F,21,Filipino,"United Kingdom, Qatar","March 3, 2020","March 10, 2020","March 15, 2020","Davao Regional 
+Medical Center","Compostela 
+Valley/Davao de Oro"
+10,PH131,F,29,Filipino,Dubai,"March 10, 2020","March 11, 2020","March 15, 2020","Our Lady of Lourdes 
+Hospital",Mandaluyong
+11,PH132,M,69,For Validation,For Validation,"February 26, 2020","March 11, 2020","March 15, 2020",Makati Medical Center,Makati
+12,PH133,M,27,For Validation,None,"March 7, 2020","March 12, 2020","March 15, 2020",Quirino Medical Center,San Juan City
+13,PH134,F,47,Filipino,None,"March 6, 2020",For Validation,"March 15, 2020","Quezon City Health 
+Department (Reporting 
+Facility)",Quezon City
+14,PH135,F,13,Filipino,None,"March 4, 2020",For Validation,"March 15, 2020","Quezon City Health 
+Department (Reporting 
+Facility)",Quezon City
+15,PH136,M,47,Filipino,None,"March 5, 2020","March 11, 2020","March 15, 2020","Silang Specialists 
+Medical Center",Cavite
+16,PH137,F,27,Filipino,None,"March 10, 2020","March 12, 2020","March 15, 2020","The Medical City - 
+Ortigas",Rizal
+17,PH138,M,58,Filipino,None,"March 9, 2020",For Validation,"March 15, 2020","Research Institute for 
+Tropical Medicine",Las Pinas City
+18,PH139,F,44,Filipino,None,"March 9, 2020",For Validation,"March 15, 2020","Research Institute for 
+Tropical Medicine",Muntinlupa City
+19,PH140,F,47,Filipino,None,"March 4, 2020","March 12, 2020","March 15, 2020","Asian Hospital and 
+Medical Center",Paranaque City
+20,PH141,63,M,For validation,For validation,For validation,For validation,For validation,"The Medical City - 
+Ortigas",For validation
