@@ -15,7 +15,7 @@ client = MongoClient(os.getenv("MONGODB_URI"))
 db = client['ncov']
 
 
-###### HELPERS
+############## HELPERS ##############
 
 # Gets a date string, returns either a formatted date, or the string itself
 def parse_date(date_str):
@@ -64,7 +64,7 @@ def parse_location(ncov_case):
         location = {"type": "Point", "coordinates": [0.0, 0.0]}
     return location
 
-### API QUERIES ##############3
+############## API QUERIES ##############
 
 ### # Get local cases in the PH
 def get_confirmed_cases_ph(last_updated):
