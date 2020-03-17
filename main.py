@@ -42,7 +42,6 @@ def get_last_updated():
     }
     return info
 
-
 def parse_facility_data(fac_obj, last_updated):
     fac_obj = fac_obj['attributes']
     try:
@@ -57,6 +56,7 @@ def parse_facility_data(fac_obj, last_updated):
     return fac_obj
 
 
+# Convert Lat long to Geo Coordinates for Mongodb
 def parse_location(ncov_case):
     try:
         location = {"type": "Point", "coordinates": [float(ncov_case['longitude']), float(ncov_case['latitude']) ]}
@@ -65,6 +65,8 @@ def parse_location(ncov_case):
     return location
 
 ### API QUERIES ##############3
+
+### # Get local cases in the PH
 def get_confirmed_cases_ph(last_updated):
     # https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/PH_masterlist/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=FID%20desc&resultOffset=0&resultRecordCount=150&cacheHint=true
     master_list_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/PH_masterlist/FeatureServer/0/query"
@@ -95,6 +97,7 @@ def get_confirmed_cases_ph(last_updated):
         ncov_case['inserted_at'] = datetime.datetime.now()
         cases.insert_one(ncov_case)
 
+# Get Foreign Cases (people who came and left the PH)
 def get_confirmed_cases_fn(last_updated):
     master_list_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/FN_masterlist/FeatureServer/0/query"
     master_list_params = {
@@ -123,6 +126,7 @@ def get_confirmed_cases_fn(last_updated):
         ncov_case['inserted_at'] = datetime.datetime.now()
         cases.insert_one(ncov_case)
 
+# Get OFW Cases
 def get_confirmed_cases_ofw(last_updated):
     master_list_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/OF_masterlist/FeatureServer/0/query"
     master_list_params = {
@@ -158,6 +162,7 @@ def get_confirmed_cases_ofw(last_updated):
 
 #######---------------------------- #############
 
+# Get PUI (Persons under Investigation) data from hospitals  (how many PUIs in which hospital)
 def get_puis(last_updated):
     pui_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/PUI_fac_tracing/FeatureServer/0/query"
     pui_list_params = {
@@ -185,6 +190,7 @@ def get_puis(last_updated):
 
 #######---------------------------- #############
 
+# Get confirmed cases data from hospitals (how many admitted in which hospital)
 def get_conf_facility(last_updated):
     conf_facility_url = "https://services5.arcgis.com/mnYJ21GiFTR97WFg/arcgis/rest/services/conf_fac_tracking/FeatureServer/0/query"
     conf_facility_params = {

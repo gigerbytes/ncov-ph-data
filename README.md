@@ -9,11 +9,11 @@ Set of functions used to query DOH API used by the DOH dashboard https://ncovtra
 Saves data into a mongo database
 
 `pdf_aggregator.py`
-Uses camelot to read the daily PDF released by DOH about cases, as it has some data not (yet) accessible through the api. Saves parsed data into CSV
+Uses [camelot](https://camelot-py.readthedocs.io/) to read the daily PDF released by DOH about cases, as it has some data not (yet) accessible through the api. Saves parsed data into CSV
 
 You can see pdf examples in /pdfs
 
 `combine_data.py`
-Combine API and PDF data to holisting csv `cases_ph.csv` for use & upload to KAGGLE
+Combine API data (from saved Mongodb) and PDF data to holisting csv `cases_ph.csv` for use & upload to KAGGLE
 
 Kaggle link here : https://www.kaggle.com/gigbytes/novel-coronavirus-philippine-dataset
