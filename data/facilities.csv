@@ -1,4 +1,4 @@
-facility,puis,confirmed_cases,region,latitude,longitude,dashboard_last_updated,inserted_at
+facility,puis,confirmed_cases,region,latitude,longitude,dashboard_last_updated,queried_at
 Armed Forces of The Philippines Health Service Command,19.0,0.0,NCR,14.63474,121.052451,2020-03-18 11:00:00.000,2020-03-18 15:58:43.087
 The Medical City - Ortigas,13.0,23.0,NCR,14.58989,121.069315,2020-03-18 11:00:00.000,2020-03-18 15:58:43.149
 Makati Medical Center,10.0,13.0,NCR,14.559177,121.014546,2020-03-18 11:00:00.000,2020-03-18 15:58:43.211
