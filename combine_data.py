@@ -6,6 +6,7 @@ import pprint
 import datetime as dt
 import datefinder
 import pandas as pd
+import numpy as np
 from dotenv import load_dotenv, find_dotenv
 from pymongo import MongoClient
 
@@ -75,6 +76,54 @@ def combine_cases_ph():
     # Save
     df_cases.to_csv('./data/cases_ph.csv', index=False)
 
+def combine_facilities():
+    fac_puis = db['facilities_puis']
+    fac_conf = db['facilities_conf']
+
+
+    # Dashboard
+    dashboard_updates = [
+        # dt.datetime(2020, 3, 16, 9, 0),
+        # dt.datetime(2020, 3, 17, 9, 0),
+        dt.datetime(2020, 3, 18, 12, 0),
+    ]
+
+    for update in dashboard_updates:
+
+        fac_puis_df = pd.DataFrame(list(fac_puis.find({'dashboard_last_updated': update})))
+        fac_conf_df = pd.DataFrame(list(fac_conf.find({'dashboard_last_updated': update})))
+
+        fac_puis_df = fac_puis_df.drop(['_id', 'location','dashboard_version', 'ObjectId'], axis=1)
+        fac_conf_df = fac_conf_df.drop(['_id', 'location','dashboard_version', 'ObjectId','dashboard_last_updated'], axis=1)
+
+
+        ## Create lower case column for merge because case inconsistent
+        ## Merge Datasets
+        fac_puis_df['facility_lowercase'] = fac_puis_df['hf'].str.lower()
+        fac_conf_df['facility_lowercase'] = fac_conf_df['facility'].str.lower()
+        facility_df = pd.merge(left=fac_puis_df, right=fac_conf_df, left_on='facility_lowercase', right_on='facility_lowercase', how="outer")
+        # facility_df = facility_df.drop(['facility_lowercase'], axis=1) #drop created lowercase col
+
+
+        facility_df = facility_df.rename(columns={'hf': 'facility_conf', 'PUIs':'puis', 'count_': 'confirmed_cases', 'latitude_x': 'latitude', 'longitude_x': 'longitude', 'inserted_at_x':'inserted_at'})
+        print(facility_df.head())
+
+        # fill NA
+        facility_df['puis'] = facility_df['puis'].replace(np.nan, int(0)) # if misjoined, then 0 pui or 0 confirmed cases
+        facility_df['confirmed_cases'] = facility_df['confirmed_cases'].replace(np.nan, 0) # if misjoined, then 0 pui or 0 confirmed cases
+        facility_df['dashboard_last_updated'] = update # if misjoined, then 0 pui or 0 confirmed cases
+        facility_df.loc[facility_df['latitude'].isna(),'latitude'] = facility_df['latitude_y']
+        facility_df.loc[facility_df['longitude'].isna(),'longitude'] = facility_df['longitude_y']
+        facility_df.loc[facility_df['inserted_at'].isna(),'inserted_at'] = facility_df['inserted_at_y']
+        facility_df.loc[facility_df['facility'].isna(),'facility'] = facility_df['facility_conf']
+
+        ## rearrange columns
+        facility_df = facility_df[['facility', 'puis', 'confirmed_cases', 'region', 'latitude','longitude','dashboard_last_updated','inserted_at']]
+
+        facility_df.to_csv('./data/facilities.csv', index=False)
+
+
 if __name__ == '__main__':
     query_cases_to_csv()
     combine_cases_ph()
+    combine_facilities()
