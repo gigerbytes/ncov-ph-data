@@ -28,7 +28,7 @@ def parse_date(date_str):
 
 def query_cases_to_csv():
     cases_ph = db['cases_ph']
-    cases_ph_cur = cases_ph.find({'dashboard_last_updated':dt.datetime(2020, 3, 18, 12, 0)})
+    cases_ph_cur = cases_ph.find({'dashboard_last_updated':dt.datetime(2020, 3, 19, 12, 0)})
 
     cases_ph_ar = []
     for case in cases_ph_cur:
@@ -85,9 +85,10 @@ def combine_facilities():
     dashboard_updates = [
         # dt.datetime(2020, 3, 16, 9, 0),
         # dt.datetime(2020, 3, 17, 9, 0),
-        dt.datetime(2020, 3, 18, 12, 0),
+        dt.datetime(2020, 3, 19, 12, 0),
     ]
 
+    # for Timeseries set generation
     for update in dashboard_updates:
 
         fac_puis_df = pd.DataFrame(list(fac_puis.find({'dashboard_last_updated': update})))
