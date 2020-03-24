@@ -1,166 +1,248 @@
 case_no,age,sex,nationality,travel_hist,detailed_history,status,symptoms,date_symptoms,date_admission,date_lab_confirmed,facility,latitude,longitude,residence,dashboard_last_updated,queried_at
-PH380,43,Female,For validation,For validation,, , ,,,For validation,Research Institute For Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:16:46.719000
-PH379,23,Male,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:46.831000
-PH378,31,Female,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:46.931000
-PH377,42,Male,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.042000
-PH376,61,Male,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.143000
-PH375,33,Male,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.253000
-PH374,35,Male,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.354000
-PH373,71,Male,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.456000
-PH372,20,Female,For validation,For validation,, , ,,,For validation,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.560000
-PH371,67,Female,For validation,For validation,, , ,,,For validation,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.665000
-PH370,68,Female,For validation,For validation,, , ,,,For validation,Olivarez General Hospital,14.479004000000002,120.99721000000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.767000
-PH369,53,Female,For validation,For validation,, , ,,,For validation,Fe Del Mundo Medical Center,14.620412,121.00929599999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:47.869000
-PH368,67,Female,Filipino,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,Batangas,2020-03-22 16:00:00,2020-03-22 18:16:48.074000
-PH367,78,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:48.185000
-PH366,63,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:48.520000
-PH365,48,Female,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:48.633000
-PH364,49,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:48.734000
-PH363,63,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:48.855000
-PH362,45,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:48.958000
-PH361,30,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.062000
-PH360,39,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.166000
-PH359,21,Female,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.276000
-PH358,35,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.378000
-PH357,33,Male,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.482000
-PH356,71,Female,For validation,For validation,, , ,,,For validation,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.615000
-PH355,32,Male,Filipino,For validation,, , ,,,For validation,De La Salle University Medical Center,14.327171,120.94343,Batangas,2020-03-22 16:00:00,2020-03-22 18:16:49.718000
-PH354,80,Female,Filipino,For validation,, , ,,,For validation,Angono Medics Hospital,14.531272,121.152922,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.833000
-PH353,31,Female,For validation,For validation,, , ,,,For validation,Rosario Maclang Bautista General Hospital,14.686009,121.08938500000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:49.936000
-PH352,58,Female,For validation,For validation,, , ,,,For validation,Makati Health Department,14.570364999999999,121.027243,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.047000
-PH351,56,Male,For validation,For validation,, , ,,,For validation,Cardinal Santos Medical Center,14.597596,121.045994,San Juan City,2020-03-22 16:00:00,2020-03-22 18:16:50.157000
-PH350,67,Male,For validation,For validation,, , ,,,For validation,Veterans Memorial Medical Center,14.65616,121.04012,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.257000
-PH349,56,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.359000
-PH348,49,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.460000
-PH347,66,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.567000
-PH346,64,Female,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.680000
-PH345,67,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.782000
-PH344,57,Female,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:50.885000
-PH343,29,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51
-PH342,29,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.114000
-PH341,26,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.227000
-PH340,52,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.327000
-PH339,44,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.454000
-PH338,42,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.549000
-PH337,54,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.648000
-PH336,51,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-22 16:00:00,2020-03-22 18:16:51.754000
-PH335,23,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:51.855000
-PH334,67,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:51.955000
-PH333,65,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:52.054000
-PH332,54,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:52.152000
-PH331,27,Female,Filipino,USA,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:52.258000
-PH330,50,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Valenzuela,2020-03-22 16:00:00,2020-03-22 18:16:52.358000
-PH329,23,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Bulacan,2020-03-22 16:00:00,2020-03-22 18:16:52.458000
-PH328,74,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:52.569000
-PH327,46,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Laguna,2020-03-22 16:00:00,2020-03-22 18:16:52.698000
-PH326,57,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:52.812000
-PH325,52,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:52.915000
-PH324,26,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Mandaluyong,2020-03-22 16:00:00,2020-03-22 18:16:53.024000
-PH323,25,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:16:53.123000
-PH322,59,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:16:53.221000
-PH321,46,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Rizal,2020-03-22 16:00:00,2020-03-22 18:16:53.319000
-PH320,51,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:53.456000
-PH319,56,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:16:53.553000
-PH318,62,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:53.656000
-PH317,75,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:53.752000
-PH316,40,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:53.851000
-PH315,37,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:53.961000
-PH314,46,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.063000
-PH313,63,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.162000
-PH312,48,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.260000
-PH311,50,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.359000
-PH310,60,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,San Lazaro Hospital,14.613754,120.98081499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.457000
-PH309,35,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.559000
-PH308,62,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.772000
-PH307,62,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.889000
-PH306,67,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-22 16:00:00,2020-03-22 18:16:54.983000
-PH305,63,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-22 16:00:00,2020-03-22 18:16:55.078000
-PH304,89,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Jose B. Lingad Memorial Regional Hospital,15.034510000000001,120.68473300000001,Bulacan,2020-03-22 16:00:00,2020-03-22 18:16:55.177000
-PH303,24,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Bataan General Hospital And Medical Center,14.678270999999999,120.53036399999999,Bataan,2020-03-22 16:00:00,2020-03-22 18:16:55.287000
-PH302,31,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:16:55.399000
-PH301,58,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.022000
-PH300,23,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.117000
-PH299,42,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.213000
-PH298,22,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.318000
-PH297,43,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.424000
-PH296,37,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.525000
-PH295,35,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.627000
-PH294,27,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.733000
-PH293,43,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.848000
-PH292,55,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:16:56.953000
-PH291,30,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,RESU-NCR (Reporting Facility),14.585332999999999,121.03593000000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:57.052000
-PH290,47,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Pasig Doctors Medical Center,14.600682999999998,121.09213500000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:57.597000
-PH289,53,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,DOH NCR CHD,14.585322,121.035854,For validation,2020-03-22 16:00:00,2020-03-22 18:16:57.705000
-PH288,32,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,Philippine Heart Center,14.644070000000001,121.04806699999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:57.804000
-PH287,56,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Chinese General Hospital And Medical Center,14.625691,120.988565,For validation,2020-03-22 16:00:00,2020-03-22 18:16:57.913000
-PH286,45,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Dr. Paulino J. Garcia Hospital,15.489270999999999,120.97278500000002,Nueva Ecija,2020-03-22 16:00:00,2020-03-22 18:16:58.024000
-PH285,43,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Dr. Paulino J. Garcia Hospital,15.489270999999999,120.97278500000002,Nueva Ecija,2020-03-22 16:00:00,2020-03-22 18:16:58.129000
-PH284,65,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City Iloilo,10.699527999999999,122.54283600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.230000
-PH283,47,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.340000
-PH282,68,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.442000
-PH281,57,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.553000
-PH280,69,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.662000
-PH279,73,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.763000
-PH278,72,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.873000
-PH277,72,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:58.973000
-PH276,54,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.070000
-PH275,44,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,Divine Mercy Wellness Center,17.61116,121.72731999999999,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.167000
-PH274,66,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.265000
-PH273,26,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Ospital Ng Palawan,9.747847,118.74438300000001,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.367000
-PH272,68,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.469000
-PH271,60,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.569000
-PH270,56,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.672000
-PH269,51,Male,For validation,For validation,, , ,,,For validation,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.823000
-PH268,77,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:16:59.922000
-PH267,56,Male,For validation,For validation,, , ,,,For validation,Dr. Pablo O. Torre Memorial Hospital,10.682441,122.958033,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.021000
-PH266,71,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.120000
-PH265,82,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.220000
-PH264,89,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.322000
-PH263,46,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Southern Philippines Medical Center,7.099060000000001,125.61940600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.657000
-PH262,45,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Southern Philippines Medical Center,7.099060000000001,125.61940600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.768000
-PH261,51,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:00.901000
-PH260,32,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,Pasig City,2020-03-22 16:00:00,2020-03-22 18:17:01.002000
-PH259,70,Male,Filipino,None,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,Pasig City,2020-03-22 16:00:00,2020-03-22 18:17:01.102000
-PH258,68,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.202000
-PH257,53,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.303000
-PH256,66,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.405000
-PH255,46,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.507000
-PH254,33,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.609000
-PH253,32,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Makati City,2020-03-22 16:00:00,2020-03-22 18:17:01.713000
-PH252,60,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.811000
-PH251,29,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:01.917000
-PH250,22,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Makati Health Department,14.570364999999999,121.027243,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.014000
-PH249,33,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Makati Health Department,14.570364999999999,121.027243,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.118000
-PH248,55,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,Lung Center of the Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.215000
-PH247,59,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Lung Center of the Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.314000
-PH246,37,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Lung Center of the Philippines,14.647820999999999,121.045763,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.431000
-PH245,44,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,La Union Medical Center,16.346585,120.363845,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.539000
-PH244,41,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,La Union Medical Center,16.346585,120.363845,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.652000
-PH243,60,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,National Kidney and Transplant Institute,14.646807,121.047243,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.763000
-PH242,37,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.874000
-PH241,29,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:02.974000
-PH240,35,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Daniel O. Mercado Medical Center,14.079849,121.15068000000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.076000
-PH239,76,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Binakayan Hospital And Medical Center,14.451741,120.92613200000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.188000
-PH238,47,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,San Pedro Calungsod Medical Center,14.427836,120.89461899999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.308000
-PH237,50,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Delos Santos Medical Center,14.620153,121.017477,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.427000
-PH236,54,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Delos Santos Medical Center,14.620153,121.017477,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.542000
-PH235,30,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Victor R. Potenciano Medical Center,14.576982999999998,121.05008400000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.651000
-PH234,35,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Fe Del Mundo Medical Center,14.620412,121.00929599999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.750000
-PH233,63,Female,For validation,For validation,, , ,,,2020-03-19 00:00:00,San Juan Medical Center,14.606611,121.02354199999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.848000
-PH232,47,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,San Juan Medical Center,14.606611,121.02354199999999,For validation,2020-03-22 16:00:00,2020-03-22 18:17:03.947000
-PH231,26,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.045000
-PH230,57,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.140000
-PH229,36,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.408000
-PH228,55,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.520000
-PH227,69,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.619000
-PH226,33,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,De Los Santos Medical Center,14.620153,121.017477,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.717000
-PH225,33,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.813000
-PH224,51,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-22 16:00:00,2020-03-22 18:17:04.909000
-PH223,25,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:17:05.005000
-PH222,54,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Marikina,2020-03-22 16:00:00,2020-03-22 18:17:05.105000
-PH221,33,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-22 16:00:00,2020-03-22 18:17:05.200000
-PH220,67,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-22 16:00:00,2020-03-22 18:17:05.297000
-PH219,72,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Pasig City,2020-03-22 16:00:00,2020-03-22 18:17:05.559000
+PH462,83.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-23 16:00:00,2020-03-24 14:52:07.827000
+PH461,64.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-23 16:00:00,2020-03-24 14:52:07.894000
+PH460,54.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:07.955000
+PH459,63.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.036000
+PH458,52.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.095000
+PH457,37.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.158000
+PH456,51.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.219000
+PH455,45.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.280000
+PH454,63.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.339000
+PH453,71.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.412000
+PH452,63.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.473000
+PH451,70.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.531000
+PH450,56.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.590000
+PH449,42.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,San Lazaro Hospital,14.613754,120.98081499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.650000
+PH448,70.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Veterans Memorial Medical Center,14.65616,121.04012,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.711000
+PH447,49.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Fe Del Mundo Medical Center,14.620412,121.00929599999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.771000
+PH446,56.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.842000
+PH445,50.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Victor R. Potenciano Medical Center,14.576982999999998,121.05008400000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:08.902000
+PH444,50.0,Male,Filipino,For validation,,,,,,2020-03-22 00:00:00,Davao Regional Medical Center,7.421699,125.828704,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.037000
+PH443,32.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Southern Philippines Medical Center,7.099060000000001,125.61940600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.097000
+PH442,28.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Southern Philippines Medical Center,7.099060000000001,125.61940600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.156000
+PH441,61.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Baguio General Hospital And Medical Center,16.401304,120.596418,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.218000
+PH440,53.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Medical Center Manila,14.582445000000002,120.985646,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.279000
+PH439,44.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Medical Center Manila,14.582445000000002,120.985646,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.346000
+PH438,73.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.405000
+PH437,57.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.470000
+PH436,75.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.589000
+PH435,60.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,FEU - Dr. Nicanor Reyes Medical Foundation,14.698851000000001,121.06719199999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.652000
+PH434,47.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Veterans Memorial Medical Center,14.65616,121.04012,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.711000
+PH433,70.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Veterans Memorial Medical Center,14.65616,121.04012,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.769000
+PH432,56.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Veterans Memorial Medical Center,14.65616,121.04012,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.848000
+PH431,21.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Mandaluyong City Medical Center,14.576313,121.035279,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.909000
+PH430,19.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Marikina City Health Office,14.636247000000001,121.09766200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:09.970000
+PH429,62.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Marikina City Health Office,14.636247000000001,121.09766200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.030000
+PH428,24.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,NCR - Regional Epidemiology And Surveillance Unit,14.585332999999999,121.03593000000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.090000
+PH427,60.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.149000
+PH426,57.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Providence Hospital,14.640992,121.031746,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.208000
+PH425,69.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Providence Hospital,14.640992,121.031746,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.269000
+PH424,53.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Victor R. Potenciano Medical Center,14.576982999999998,121.05008400000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.329000
+PH423,32.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Victor R. Potenciano Medical Center,14.576982999999998,121.05008400000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.388000
+PH422,64.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.490000
+PH421,28.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,National Center For Mental Health,14.581032999999998,121.04278799999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.551000
+PH420,68.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Pasig City General Hospital,14.5724,121.09920100000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.613000
+PH419,33.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.671000
+PH418,70.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.735000
+PH417,52.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.795000
+PH416,57.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.855000
+PH415,78.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.915000
+PH414,34.0,Female,For validation,For validation,,,,,,,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:10.974000
+PH413,31.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.133000
+PH412,65.0,Male,For validation,For validation,,,,,,,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.193000
+PH411,53.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Perpetual Succor Hospital,14.608177,120.992337,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.254000
+PH410,54.0,Male,For validation,For validation,,,,,,,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.332000
+PH409,30.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Philippine Heart Center,14.644070000000001,121.04806699999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.392000
+PH408,62.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Philippine Heart Center,14.644070000000001,121.04806699999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.452000
+PH407,41.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.512000
+PH406,26.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.572000
+PH405,52.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.661000
+PH404,73.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.722000
+PH403,50.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.782000
+PH402,61.0,Female,For validation,For validation,,,,,,2020-03-23 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.842000
+PH401,62.0,Male,For validation,For validation,,,,,,2020-03-23 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.902000
+PH400,49.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Metropolitan Medical Center,14.609723,120.978397,For validation,2020-03-23 16:00:00,2020-03-24 14:52:11.962000
+PH399,73.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Metropolitan Medical Center,14.609723,120.978397,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.022000
+PH398,29.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Metropolitan Medical Center,14.609723,120.978397,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.083000
+PH397,56.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Cainta Rural Health Unit,14.580116,121.11466499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.143000
+PH396,25.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,NCR - Regional Epidemiology And Surveillance Unit,14.585332999999999,121.03593000000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.233000
+PH395,69.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Quezon City General Hospital,14.661098,121.018193,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.299000
+PH394,65.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,University Of The East Ramon Magsaysay Memorial Medical Center,14.607029999999998,121.020581,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.358000
+PH393,74.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,University Of The East Ramon Magsaysay Memorial Medical Center,14.607029999999998,121.020581,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.418000
+PH392,20.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,University Of The East Ramon Magsaysay Memorial Medical Center,14.607029999999998,121.020581,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.480000
+PH391,80.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,University Of The East Ramon Magsaysay Memorial Medical Center,14.607029999999998,121.020581,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.541000
+PH390,30.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Divine Grace Medical Center,14.39785,120.868043,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.600000
+PH389,75.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.661000
+PH388,57.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Quezon City Health Department (Reporting Facility),14.646154000000001,121.052315,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.723000
+PH387,56.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Sacred Heart Hospital Of Malolos,14.851641,120.81776599999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.783000
+PH386,56.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.892000
+PH385,25.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:12.963000
+PH384,70.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,Medical Center Parañaque,14.45825,121.033376,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.024000
+PH383,27.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,East Avenue Medical Center,14.642167,121.04806299999998,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.084000
+PH382,63.0,Female,For validation,For validation,,,,,,2020-03-22 00:00:00,East Avenue Medical Center,14.642167,121.04806299999998,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.145000
+PH381,62.0,Male,For validation,For validation,,,,,,2020-03-22 00:00:00,Naic Rural Health Unit,14.318871,120.7643028,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.206000
+PH380,43.0,Female,For validation,For validation,, , ,,,2020-03-17 00:00:00,Research Institute For Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.268000
+PH379,23.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.327000
+PH378,31.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.387000
+PH377,42.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.447000
+PH376,61.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.507000
+PH375,33.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.566000
+PH374,35.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.625000
+PH373,71.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.685000
+PH372,20.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.746000
+PH371,67.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.805000
+PH370,68.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Olivarez General Hospital,14.479004000000002,120.99721000000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.865000
+PH369,53.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Fe Del Mundo Medical Center,14.620412,121.00929599999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:13.924000
+PH368,67.0,Female,Filipino,For validation,, , ,,,2020-03-20 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,Batangas,2020-03-23 16:00:00,2020-03-24 14:52:13.985000
+PH367,78.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.045000
+PH366,63.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.104000
+PH365,48.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.193000
+PH364,49.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.255000
+PH363,63.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.368000
+PH362,45.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.429000
+PH361,30.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.489000
+PH360,39.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.554000
+PH359,21.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.619000
+PH358,35.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.684000
+PH357,33.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.743000
+PH356,71.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Asian Hospital And Medical Center,14.413478,121.04361200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.814000
+PH355,32.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,De La Salle University Medical Center,14.327171,120.94343,Batangas,2020-03-23 16:00:00,2020-03-24 14:52:14.873000
+PH354,80.0,Female,Filipino,For validation,, , ,,,2020-03-20 00:00:00,Angono Medics Hospital,14.531272,121.152922,For validation,2020-03-23 16:00:00,2020-03-24 14:52:14.948000
+PH353,31.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Rosario Maclang Bautista General Hospital,14.686009,121.08938500000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.007000
+PH352,58.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Makati Health Department,14.570364999999999,121.027243,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.068000
+PH351,56.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,San Juan City,2020-03-23 16:00:00,2020-03-24 14:52:15.137000
+PH350,67.0,Male,For validation,For validation,, , ,,,For validation,Veterans Memorial Medical Center,14.65616,121.04012,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.197000
+PH349,56.0,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.259000
+PH348,49.0,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.319000
+PH347,66.0,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.382000
+PH346,64.0,Female,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.442000
+PH345,67.0,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.529000
+PH344,57.0,Female,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.590000
+PH343,29.0,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.649000
+PH342,29.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.710000
+PH341,26.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.769000
+PH340,52.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.841000
+PH339,44.0,Male,For validation,For validation,, , ,,,For validation,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.901000
+PH338,42.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:15.962000
+PH337,54.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:16.022000
+PH336,51.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Makati Medical Center,14.559176999999998,121.014546,For validation,2020-03-23 16:00:00,2020-03-24 14:52:16.083000
+PH335,23.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.143000
+PH334,67.0,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.204000
+PH333,65.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.319000
+PH332,54.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.379000
+PH331,27.0,Female,Filipino,USA,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.451000
+PH330,50.0,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Valenzuela,2020-03-23 16:00:00,2020-03-24 14:52:16.512000
+PH329,23.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Bulacan,2020-03-23 16:00:00,2020-03-24 14:52:16.572000
+PH328,74.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.633000
+PH327,46.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Laguna,2020-03-23 16:00:00,2020-03-24 14:52:16.694000
+PH326,57.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.754000
+PH325,52.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:16.815000
+PH324,26.0,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Mandaluyong,2020-03-23 16:00:00,2020-03-24 14:52:16.874000
+PH323,25.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:16.935000
+PH322,59.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.036000
+PH321,46.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Rizal,2020-03-23 16:00:00,2020-03-24 14:52:17.097000
+PH320,51.0,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:17.157000
+PH319,56.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:17.217000
+PH318,62.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.277000
+PH317,75.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.338000
+PH316,40.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.402000
+PH315,37.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke'S Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.462000
+PH314,46.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.521000
+PH313,63.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.606000
+PH312,48.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.669000
+PH311,50.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Lung Center Of The Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.729000
+PH310,60.0,Female,Filipino,For validation,, , ,,,2020-03-21 00:00:00,San Lazaro Hospital,14.613754,120.98081499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.789000
+PH309,35.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.849000
+PH308,62.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.909000
+PH307,62.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Rizal Medical Center,14.564216,121.06587900000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:17.970000
+PH306,67.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.030000
+PH305,63.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Manila Doctors Hospital,14.582028,120.982657,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.090000
+PH304,89.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Jose B. Lingad Memorial Regional Hospital,15.034510000000001,120.68473300000001,Bulacan,2020-03-23 16:00:00,2020-03-24 14:52:18.150000
+PH303,24.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Bataan General Hospital And Medical Center,14.678270999999999,120.53036399999999,Bataan,2020-03-23 16:00:00,2020-03-24 14:52:18.211000
+PH302,31.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.271000
+PH301,58.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,University of Sto. Tomas Hospital,14.611635,120.990153,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.330000
+PH300,23.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.391000
+PH299,42.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.454000
+PH298,22.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.513000
+PH297,43.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.574000
+PH296,37.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.635000
+PH295,35.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.697000
+PH294,27.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,San Juan CESU,14.605066,121.029648,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.758000
+PH293,43.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.817000
+PH292,55.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.878000
+PH291,30.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,RESU-NCR (Reporting Facility),14.585332999999999,121.03593000000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:18.938000
+PH290,47.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Pasig Doctors Medical Center,14.600682999999998,121.09213500000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.024000
+PH289,53.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,DOH NCR CHD,14.585322,121.035854,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.103000
+PH288,32.0,Male,Filipino,For validation,, , ,,,2020-03-21 00:00:00,Philippine Heart Center,14.644070000000001,121.04806699999999,Manila,2020-03-23 16:00:00,2020-03-24 14:52:19.165000
+PH287,56.0,Female,For validation,For validation,, , ,,,2020-03-21 00:00:00,Chinese General Hospital And Medical Center,14.625691,120.988565,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.232000
+PH286,45.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Dr. Paulino J. Garcia Hospital,15.489270999999999,120.97278500000002,Nueva Ecija,2020-03-23 16:00:00,2020-03-24 14:52:19.292000
+PH285,43.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,Dr. Paulino J. Garcia Hospital,15.489270999999999,120.97278500000002,Nueva Ecija,2020-03-23 16:00:00,2020-03-24 14:52:19.353000
+PH284,65.0,Male,For validation,For validation,, , ,,,2020-03-21 00:00:00,The Medical City Iloilo,10.699527999999999,122.54283600000001,Iloilo,2020-03-23 16:00:00,2020-03-24 14:52:19.413000
+PH283,47.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.473000
+PH282,68.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.536000
+PH281,57.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.596000
+PH280,69.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.658000
+PH279,73.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.719000
+PH278,72.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.779000
+PH277,72.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.839000
+PH276,54.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:19.899000
+PH275,44.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,Divine Mercy Wellness Center,17.61116,121.72731999999999,Tuguegarao City,2020-03-23 16:00:00,2020-03-24 14:52:19.959000
+PH274,66.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.020000
+PH273,26.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Ospital Ng Palawan,9.747847,118.74438300000001,Puerto Princesa City,2020-03-23 16:00:00,2020-03-24 14:52:20.080000
+PH272,68.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:20.140000
+PH271,60.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.200000
+PH270,56.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.263000
+PH269,51.0,Male,For validation,For validation,, , ,,,For validation,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.324000
+PH268,77.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.384000
+PH267,56.0,Male,For validation,For validation,, , ,,,For validation,Dr. Pablo O. Torre Memorial Hospital,10.682441,122.958033,Negros Occidental,2020-03-23 16:00:00,2020-03-24 14:52:20.446000
+PH266,71.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.561000
+PH265,82.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.621000
+PH264,89.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.681000
+PH263,46.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Southern Philippines Medical Center,7.099060000000001,125.61940600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.742000
+PH262,45.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Southern Philippines Medical Center,7.099060000000001,125.61940600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.804000
+PH261,51.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:20.864000
+PH260,32.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,Pasig City,2020-03-23 16:00:00,2020-03-24 14:52:20.924000
+PH259,70.0,Male,Filipino,None,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,Pasig City,2020-03-23 16:00:00,2020-03-24 14:52:20.983000
+PH258,68.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.043000
+PH257,53.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,The Medical City - Ortigas,14.589889999999999,121.06931499999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.103000
+PH256,66.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.163000
+PH255,46.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:21.229000
+PH254,33.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Mandaluyong City,2020-03-23 16:00:00,2020-03-24 14:52:21.316000
+PH253,32.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Makati City,2020-03-23 16:00:00,2020-03-24 14:52:21.376000
+PH252,60.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Mandaluyong City,2020-03-23 16:00:00,2020-03-24 14:52:21.437000
+PH251,29.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Taguig City,2020-03-23 16:00:00,2020-03-24 14:52:21.504000
+PH250,22.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Makati Health Department,14.570364999999999,121.027243,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.563000
+PH249,33.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Makati Health Department,14.570364999999999,121.027243,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.623000
+PH248,55.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,Lung Center of the Philippines,14.647820999999999,121.045763,Caloocan City,2020-03-23 16:00:00,2020-03-24 14:52:21.684000
+PH247,59.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Lung Center of the Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.745000
+PH246,37.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Lung Center of the Philippines,14.647820999999999,121.045763,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.805000
+PH245,44.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,La Union Medical Center,16.346585,120.363845,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.868000
+PH244,41.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,La Union Medical Center,16.346585,120.363845,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.928000
+PH243,60.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,National Kidney and Transplant Institute,14.646807,121.047243,For validation,2020-03-23 16:00:00,2020-03-24 14:52:21.988000
+PH242,37.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Mandaluyong City,2020-03-23 16:00:00,2020-03-24 14:52:22.048000
+PH241,29.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Makati City,2020-03-23 16:00:00,2020-03-24 14:52:22.109000
+PH240,35.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Daniel O. Mercado Medical Center,14.079849,121.15068000000001,Batangas,2020-03-23 16:00:00,2020-03-24 14:52:22.170000
+PH239,76.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Binakayan Hospital And Medical Center,14.451741,120.92613200000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.234000
+PH238,47.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,San Pedro Calungsod Medical Center,14.427836,120.89461899999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.297000
+PH237,50.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Delos Santos Medical Center,14.620153,121.017477,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:22.365000
+PH236,54.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Delos Santos Medical Center,14.620153,121.017477,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:22.425000
+PH235,30.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,Victor R. Potenciano Medical Center,14.576982999999998,121.05008400000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.533000
+PH234,35.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Fe Del Mundo Medical Center,14.620412,121.00929599999999,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:22.594000
+PH233,63.0,Female,For validation,For validation,, , ,,,2020-03-19 00:00:00,San Juan Medical Center,14.606611,121.02354199999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.655000
+PH232,47.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,San Juan Medical Center,14.606611,121.02354199999999,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.715000
+PH231,26.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,Cavite,2020-03-23 16:00:00,2020-03-24 14:52:22.775000
+PH230,57.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.835000
+PH229,36.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.896000
+PH228,55.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:22.957000
+PH227,69.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,For validation,2020-03-23 16:00:00,2020-03-24 14:52:23.019000
+PH226,33.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,De Los Santos Medical Center,14.620153,121.017477,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:23.080000
+PH225,33.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,Research Institute for Tropical Medicine,14.409523000000002,121.037122,For validation,2020-03-23 16:00:00,2020-03-24 14:52:23.140000
+PH224,51.0,Male,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:23.202000
+PH223,25.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:23.262000
+PH222,54.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Marikina,2020-03-23 16:00:00,2020-03-24 14:52:23.322000
+PH221,33.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Quezon City,14.622677,121.023532,Quezon City,2020-03-23 16:00:00,2020-03-24 14:52:23.383000
+PH220,67.0,Female,For validation,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-23 16:00:00,2020-03-24 14:52:23.442000
+PH219,72.0,Male,Filipino,For validation,, , ,,,2020-03-20 00:00:00,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,Pasig City,2020-03-23 16:00:00,2020-03-24 14:52:23.503000
 PH218,30,Male,Filipino,For validation,, , ,,,For validation,St. Luke's Medical Center - Global City,14.555128,121.04825600000001,For validation,2020-03-21 16:00:00,2020-03-22 03:13:16.041000
 PH217,54,Male,For validation,For validation,,For validation,,,,2020-03-18 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-19 12:00:00,2020-03-19 19:04:51.625000
 PH216,44,Male,Filipino,For validation,,For validation,,,,2020-03-18 00:00:00,Cardinal Santos Medical Center,14.597596,121.045994,For validation,2020-03-19 12:00:00,2020-03-19 19:04:51.679000
