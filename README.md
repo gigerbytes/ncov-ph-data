@@ -13,7 +13,9 @@ Uses [camelot](https://camelot-py.readthedocs.io/) to read the daily PDF release
 
 You can see pdf examples in /pdfs
 
+*Note: Seems like the DOH stopped publishing these*
+
 `combine_data.py`
-Combine API data (from saved Mongodb) and PDF data to holisting csv `cases_ph.csv` for use & upload to KAGGLE
+Combine API data (from saved Mongodb) and PDF data to holisting csv `cases_ph.csv` for use & upload to Kaggle
 
 Kaggle link here : https://www.kaggle.com/gigbytes/novel-coronavirus-philippine-dataset
