@@ -28,12 +28,13 @@ def parse_date(date_str):
 
 def query_cases_to_csv():
     cases_ph = db['cases_ph']
-    cases_ph_cur = cases_ph.find({'dashboard_last_updated':dt.datetime(2020, 3, 25, 16, 0)}).sort("FID",-1)
+    cases_ph_cur = cases_ph.find({'dashboard_last_updated':dt.datetime(2020, 3, 26, 16, 0)})
 
     cases_ph_ar = []
     for case in cases_ph_cur:
         case_obj = {
             'FID' : case['FID'],
+            'sequ': case['sequ'],
             'case_no' : case['PH_masterl'],
             'sex' : case['kasarian'],
             'age': case['edad'],
@@ -58,9 +59,8 @@ def query_cases_to_csv():
 
 ### COMBINE PDF DATA WITH QUERIED DASHBOARD DATA
 def combine_cases_ph():
-    cases_api = pd.read_csv('./data/cases_ph.csv', index_col=[0])
+    cases_api = pd.read_csv('./data/cases_ph.csv', index_col=[0]).sort_values(by=['sequ'], ascending=False) # FID is now out of sync with case_no, New field sequ appeared Mar 25 which is numerical form of case_no. sort by desc to order dataset.
     cases_pdf = pd.read_csv('./data/cases_pdf_ph.csv', index_col=[0])
-
     # Drop useless colums from cases_pdf
     cases_pdf = cases_pdf.drop(['age','sex','nationality','facility','residence','date_confirmation'], axis=1)
 
@@ -85,7 +85,7 @@ def combine_facilities():
     dashboard_updates = [
         # dt.datetime(2020, 3, 16, 9, 0),
         # dt.datetime(2020, 3, 17, 9, 0),
-        dt.datetime(2020, 3, 25, 16, 0),
+        dt.datetime(2020, 3, 26, 16, 0),
     ]
 
     # for Timeseries set generation
