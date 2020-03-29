@@ -246,9 +246,9 @@ def get_commodities(last_updated):
 
 if __name__ == '__main__':
     last_updated = get_last_updated() #dashboard version & last updated
-    # get_confirmed_cases_fn(last_updated)
-    # get_confirmed_cases_ph(last_updated)
-    # get_confirmed_cases_ofw(last_updated)
-    # get_puis(last_updated)
+    get_confirmed_cases_fn(last_updated)
+    get_confirmed_cases_ph(last_updated)
+    get_confirmed_cases_ofw(last_updated)
+    get_puis(last_updated)
     get_conf_facility(last_updated)
-    # get_commodities(last_updated)
+    get_commodities(last_updated)
