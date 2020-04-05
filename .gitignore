@@ -5,3 +5,4 @@ venv
 
 .DS_Store
 data/.DS_Store
+migrate_hospitals.py
