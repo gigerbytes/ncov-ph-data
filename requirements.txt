@@ -19,7 +19,7 @@ Elixir==0.7.1
 et-xmlfile==1.0.1
 idna==2.9
 jdcal==1.4.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 numpy==1.18.1
 opencv-python==4.2.0.32
